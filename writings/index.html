@@ -2,10 +2,10 @@
 layout: default
 title: Writings or the like
 ---
-	<h1>{{ texts.title }}</h1>
+	<h1>{{ writings.title }}</h1>
 	<ul class="texts">
 
 	  {% for texts in site.writings %}
-	    <li><span>{{ texts.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ texts.title }}">{{ texts.title }}</a></li>
+	    <li><span>{{ writings.date | date_to_string }}</span> » <a href="{{ writings.url }}" title="{{ writings.title }}">{{ writings.title }}</a></li>
 	  {% endfor %}
 	</ul>
