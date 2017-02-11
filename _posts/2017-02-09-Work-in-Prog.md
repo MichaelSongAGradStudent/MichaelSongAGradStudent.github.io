@@ -14,7 +14,7 @@ Anyone interested in the history of botany should visit, it is a truly lovely pl
 And of course, this got me thinking about Linnaeus and his garden (Linnéträdgården) and how language plays such a fundamental role in our endeavors as botanists in ways pretty unique to our field. I argue that botanists think about their language far more and more thoughtfully than any other practioners of science and are thus well-equipped to help scientists generally deal with existential problems when it comes to communication and the future of our professions. But more on that at the end of the talk, first I wish to speak a little about the interactions between ideology, aestetics, and language to explore how we exist within a multiplicity of "ways of seeing," and how that is a good thing, and how *that* should be the method of attack when approaching the task of science communication. 
 
 # Background
-
+First some background! What am I even talking about when I say language? And how does that interact with ideology and aestetics and isn't that something we don't have to worry about as scientists? 
 
 
 # Problematic
