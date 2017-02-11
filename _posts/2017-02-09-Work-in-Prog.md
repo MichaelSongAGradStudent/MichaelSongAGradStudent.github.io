@@ -4,10 +4,10 @@ title: "Learning From Linnaeus: Ideology, aestetics, and language"
 date: 2017-02-09
 ---
 
-#Introduction
+# Introduction
 -lorem ipsum
-#Background
-#Problematic
-#Treatment
-#Footnotes
-#References
+# Background
+# Problematic
+# Treatment
+# Footnotes
+# References
