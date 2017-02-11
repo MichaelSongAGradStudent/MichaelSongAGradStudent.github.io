@@ -1,2 +1,3 @@
 name: Mick Song, a PhD student
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
