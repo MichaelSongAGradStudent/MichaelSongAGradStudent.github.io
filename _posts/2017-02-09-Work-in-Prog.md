@@ -20,16 +20,8 @@ So who even thinks about language as a scientist? Well, I know Brent Mishler doe
 
 To do so requires us to remember our history, in particular the history of how plants were named. We will see that changes in nomenclature reflect different ways of seeing, influenced by the aestetics and ideology of the namer. There are far too many people and ideas to mention in this brief talk but here we can look at a timeline of the major botanical figures, their contributions to the language, next to important historical events. We can, however, look at some major figures.
 
-## Theophrastus
-![alt text](https://MichaelSongAGradStudent.github.io/images/Theophrastos.jpg "Theophrastus")
-Forms, practical uses such as wood and medicine. The aestetics of Form; organization of Forms.
-
-## Ray and Tournefort
-
-
 ## Linnaeus
-![alt text](https://MichaelSongAGradStudent.github.io/images/Linne.jpg "Linnaeus' System")
-Forms, Genesis, aestetics of the Garden; the naming of Forms. scala naturae
+I first wish to talk about Linnaeus. 
 
 ## The French Critics
 Buffon
@@ -44,6 +36,8 @@ How do we communicated new ideas? Twitter. But, when ideas become reduced to "th
 
 # Treatment
 Our narratives are diverse and wildly appealing, use them.
+
+## Talk about the OTS Course
 
 ## Climate Change and the Language of Evolution
 
