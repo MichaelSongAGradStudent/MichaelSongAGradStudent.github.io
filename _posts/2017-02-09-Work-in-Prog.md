@@ -22,15 +22,17 @@ To do so requires us to remember our history, in particular the history of how p
 
 ## Theophrastus
 ![alt text](https://MichaelSongAGradStudent.github.io/images/Theophrastos.jpg "Theophrastus")
+Forms, practical uses such as wood and medicine. The aestetics of Form; organization of Forms.
 
 ## Ray and Tournefort
 
 
 ## Linnaeus
 ![alt text](https://MichaelSongAGradStudent.github.io/images/Linne.jpg "Linnaeus' System")
+Forms, Genesis, aestetics of the Garden; the naming of Forms. scala naturae
 
 ## The French Critics
-
+Buffon
 
 ## 20th Century nomeclature
 
@@ -41,7 +43,9 @@ How do we deal with our complex linguistic past? We are in constant dialogue wit
 How do we communicated new ideas? Twitter. But, when ideas become reduced to "this is right" kinds of arguments, which scientists often fall prey to, it becomes easier for sorting algorithms (our collective brain, e.g. Cambridge Analytics) to prevent a free exchange of ideas.
 
 # Treatment
-Our narratives are diverse and wildly appealing, use them. 
+Our narratives are diverse and wildly appealing, use them.
+
+## Climate Change and the Language of Evolution
 
 # Footnotes
 1. See Mishler (1999), "Getting Rid of Species?" *Species: New Interdisciplinary Essays.*
