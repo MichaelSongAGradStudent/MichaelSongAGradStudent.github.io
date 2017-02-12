@@ -16,14 +16,32 @@ And of course, this got me thinking about Linnaeus and his garden (Linnéträdg�
 # Background
 First some background! What am I even talking about when I say language? And how does that interact with ideology and aestetics and isn't that something we don't have to worry about as scientists?
 
-So who even thinks about language as a scientist? Well, I know Brent Mishler does and his papers on the species problem and the taxon problem (1) are fantastic exmaples of really fruitful debate that inform and drive forward research in the field of systematics. And this year, of course, is the XIX International Botanical Congress in Shenzhen, China. It is here that an international body votes to adopt changes to the [*International Code of Nomenclature for algae, fungi, and plants*](http://www.iapt-taxon.org/nomen/main.php?page=title). If you haven't read the code, I would recommend it. You know, I used to suffer from insomnia before becoming a botanist. It is a laborous process, first prososed changes to the code must be published in *Taxon*, the journal of the International Association for Plant Taxonomy (IAPT) and then voting happens over the course of a week during the Congress every six years. Anyways, it is a highly codified system that we use to name plants and it is within this highly structural approach that we conduct science. Now, I want to convince you that this framework has implications for all of us, not just the pedants.
+So who even thinks about language as a scientist? Well, I know Brent Mishler does and his papers on the species problem and the taxon problem (1) are fantastic exmaples of really fruitful debate that inform and drive forward research in the field of systematics. And this year, of course, is the XIX International Botanical Congress in Shenzhen, China. It is here that an international body votes to adopt changes to the [*International Code of Nomenclature for algae, fungi, and plants*](http://www.iapt-taxon.org/nomen/main.php?page=title). If you haven't read the code, I would recommend it. You know, I used to suffer from insomnia before becoming a botanist. It is a laborous process; first, prososed changes to the code must be published in *Taxon*, the journal of the International Association for Plant Taxonomy (IAPT) and then voting happens over the course of a week during the Congress every six years. Anyways, it is by this highly codified system that we name plants and it is within this highly structural approach that we conduct science. Now, I want to convince you that this framework has implications for all of us, not just the pedants.
+
+To do so requires us to remember our history, in particular the history of how plants were named. We will see that changes in nomenclature reflect different ways of seeing, influenced by the aestetics and ideology of the namer. There are far too many people and ideas to mention in this brief talk but here we can look at a timeline of the major botanical figures, their contributions to the language, next to important historical events. We can, however, look at some major figures.
+
+## Theophrastus
+![alt text](https://MichaelSongAGradStudent.github.io/images/Theophrastos.jpg "Theophrastus")
+
+## Ray and Tournefort
+
+
+## Linnaeus
+![alt text](https://MichaelSongAGradStudent.github.io/images/Linne.jpg "Linnaeus' System")
+
+## The French Critics
+
+
+## 20th Century nomeclature
 
 
 # Problematic
+How do we deal with our complex linguistic past? We are in constant dialogue with past ideas because we still borrow from their nomenclature daily.
 
+How do we communicated new ideas? Twitter. But, when ideas become reduced to "this is right" kinds of arguments, which scientists often fall prey to, it becomes easier for sorting algorithms (our collective brain, e.g. Cambridge Analytics) to prevent a free exchange of ideas.
 
 # Treatment
-
+Our narratives are diverse and wildly appealing, use them. 
 
 # Footnotes
 1. See Mishler (1999), "Getting Rid of Species?" *Species: New Interdisciplinary Essays.*
