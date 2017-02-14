@@ -5,7 +5,7 @@ date: 2017-02-09
 ---
 
 # Introduction
-This summer, I was lucky enough to be in Florence with loved ones and made a day trip out to Pisa. We of course made the necessary tourist pictures with the Leaning Tower, but wanted something more. Luckily, we happened across the world's first ever academic botanical garden the Orto Botanico di Pisa, founded in 1544 by Cosimo I de’ Medici. Cosimo I was also the Medici that built the Villa di Castello and the Bobili Gardens (and the Uffizi). The distinction of establishing the oldest academic garden, however, is disputed since the garden moved locations twice, once in 1563 and most recently in 1591; the Orto botanico di Padova hasn't moved since its founding in 1545. Nonetheless, it was here that Luca Ghini, a 16th century botanist who taught at the affiliated Università di Pisa, created the first herbarium. Although, his system *bound* herbarium samples into books that could be cited. It wasn't until Linnaeus that the plants were freed to individual sheets.
+This winter, I was lucky enough to be in Florence with loved ones and made a day trip out to Pisa. We of course made the necessary tourist pictures with the Leaning Tower, but wanted something more. Luckily, we happened across the world's first ever academic botanical garden the Orto Botanico di Pisa, founded in 1544 by Cosimo I de’ Medici. Cosimo I was also the Medici that built the Villa di Castello and the Bobili Gardens (and the Uffizi). The distinction of establishing the oldest academic garden, however, is disputed since the garden moved locations twice, once in 1563 and most recently in 1591; the Orto botanico di Padova hasn't moved since its founding in 1545. Nonetheless, it was here that Luca Ghini, a 16th century botanist who taught at the affiliated Università di Pisa, created the first herbarium. Although, his system *bound* herbarium samples into books that could be cited. It wasn't until Linnaeus that the plants were freed to individual sheets.
 
 ![alt text](https://MichaelSongAGradStudent.github.io/images/ortoBotanico.jpg "Bamboo at Pisa")
 
@@ -31,19 +31,19 @@ In fact, the modern day narratives of uncovering the wonders of the natural worl
 
 Well, we still use binomial nomenclature, but we have moved far from Linnaeus in our understanding of the relationship of living organisms, and many current scientists advocate a rank-free system. This is all true. In terms of Darwin and the revolution of evolution, the Linnaean rank-system was able to eventually incorporate evolutionary thinking into its nomenclature and now monophylly or shared-descent is the governing principle that organizes the system.
 
-It is such that just by using a name, let us just use the most loaded one *Homo sapiens*, you conjure so many ideas. You can use this name for man to separate man from beast and the animal, vegetal, and mineral world because we are unique and have our own name. You may just as easily conjure up a phylogeny in your mind with man nested within apes as you may imagine a tree with man at the apex as in the *scala naturae*. And of course the name comes with a *type species.* For the case of *Homo sapiens* you have the remains of Linnaeus himself as the type. You are also speaking in Latin. Think about that. In two words, you contain, transfer, and transmute past narratives into your present one. This is important to consider when we think about our field as communicating new ideas and knowledge more generally.
+Just by using a name, let us just use the most loaded one *Homo sapiens*, you conjure so many ideas. You can use this name for man to separate man from beast and the animal, vegetal, and mineral world because we are unique and have our own name. You may just as easily conjure up a phylogeny in your mind with man nested within apes as you may imagine a tree with man at the apex as in the *scala naturae*. And of course the name comes with a *type species.* For the case of *Homo sapiens,* you have the remains of Linnaeus himself as the type. You are also speaking in Latin. Think about that. In two words, you contain, transfer, and transmute past narratives into your present one. This is important to consider when we think about our field as communicating new ideas and knowledge more generally.
 
 # Problematic
 How do we communicated new ideas? Peer-reviewed journals, okay. But the trend these days is to emphasize what is called science communication, that is communicating science to the public. How do we do that? Twitter. Here, we must be very careful with how we frame our communications, because there is a tendency to frame science within the narrative of "logic based reasoning." In short, there is ignorance and through robust data and strong logic we can rid the world of bad ideas. But, when ideas become reduced to "this is right" (or "this is more right than before") kinds of arguments, which scientists often fall prey to, it becomes easier for sorting algorithms (our collective brain, e.g. [Cambridge Analytica](https://www.youtube.com/watch?v=n8Dd5aVXLCc) to prevent connecting people with new thought-provoking ideas. Our communication is mediated by data-driven analytics that mean to segregate us into echo-chambers. 
 
 ## Twitter and Science Communication
-
+Let's evaluate how good these media by which we try and communicate science are to perhaps think about ways to optimize our outreach and impact.
 
 # Treatment
 Our narratives are diverse and wildly appealing, use them.
 
 ## Climate Change and the Language of Evolution
-Evolution has a million narratives and it seems like climate change is a few. 
+Evolution has a million narratives and it seems like climate change has a few?
 
 
 # Footnotes
