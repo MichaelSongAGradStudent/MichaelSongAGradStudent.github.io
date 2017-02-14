@@ -27,22 +27,24 @@ I first wish to talk about Linnaeus. Just to get on the same page, I want to giv
 2. If you want your ideas to spread, have apostles. Worked for Linnaeus *and* Jesus.
 
 For me, what is striking about Linnaeus' system is his distinction between "real" taxa which for him are genera and species and the artificial distinctions of his "sexual system." In many ways, this was a real innovation and the ubiquity of Linnaean taxonomy, I would argue, is that we generally still believe species are real. But why even have artificial distinctions? Well, it is becuase this distinction, though imperfect and somewhat artificial, for Linnaeus reflected the "secret working-plan of the creator" and was an improvement on all the other systems of classification because so (ref 1).
-In fact, the modern day narratives of uncovering the wonders of the natural world, I argue reflect his ideology. Why are we so afraid of losing biodiversity? Why do we care that ~80% of the world's estimated species go unnamed (2)? Is it not because we find ourselves as Linnaeus did, stewards of God's earth, a second Adam, the one's to name and to know all of creation? And why do we feel this way, we're mostly non-religious these days? It is because Linnaeus changed the language by which we work! These narratives are nested in the language we use to speak about biology.
+In fact, the modern day narratives of uncovering the wonders of the natural world, I argue reflect his ideology. Why are we so afraid of losing biodiversity? Why do we care that ~80% of the world's estimated species go unnamed (2)? Is it not because we find ourselves as Linnaeus did, stewards of God's earth, a second Adam, the one's to name and to know all of creation? And why do we feel this way, we're mostly non-religious these days? It is because Linnaeus changed the language by which we work! Changed insofar that his particular Adam-ist aestetics are relfected in his sense of order, yet on the other-hand his changes are a modficiation of Ray's and Tournefort's and other previous systems and thus take with them vestigages of the ideologies that governed their organizing priciples. For example the *scala naturae* and principle of plenitude, to which of course Linnaeus also subscribed.  All these narratives are nested in the language we use to speak about biology.
 
-## The French Critics
-Buffon
+Well, we still use binomial nomenclature, but we have moved far from Linnaeus in our understanding of the relationship of living organisms, and many current scientists advocate a rank-free system. This is all true. In terms of Darwin and the revolution of evolution, the Linnaean rank-system was able to eventually incorporate evolutionary thinking into its nomenclature and now monophylly or shared-descent is the governing principle that organizes the system.
 
-## 20th Century nomeclature
-
+It is such that just by using a name, let us just use the most loaded one *Homo sapiens*, you conjure so many ideas. You can use this name for man to separate man from beast and the animal, vegetal, and mineral world because we are unique and have our own name. You may just as easily conjure up a phylogeny in your mind with man nested within apes as you may imagine a tree with man at the apex as in the *scala naturae*. And of course the name comes with a *type species.* For the case of *Homo sapiens* you have the remains of Linnaeus himself as the type. You are also speaking in Latin. Think about that. In two words, you contain, transfer, and transmute past narratives into your present one. This is important to consider when we think about our field as communicating new ideas and knowledge more generally.
 
 # Problematic
-How do we communicated new ideas? Twitter. But, when ideas become reduced to "this is right" kinds of arguments, which scientists often fall prey to, it becomes easier for sorting algorithms (our collective brain, e.g. [Cambridge Analytica](https://www.youtube.com/watch?v=n8Dd5aVXLCc) to prevent connecting people with new thought-provoking ideas.
+How do we communicated new ideas? Peer-reviewed journals, okay. But the trend these days is to emphasize what is called science communication, that is communicating science to the public. How do we do that? Twitter. Here, we must be very careful with how we frame our communications, because there is a tendency to frame science within the narrative of "logic based reasoning." In short, there is ignorance and through robust data and strong logic we can rid the world of bad ideas. But, when ideas become reduced to "this is right" (or "this is more right than before") kinds of arguments, which scientists often fall prey to, it becomes easier for sorting algorithms (our collective brain, e.g. [Cambridge Analytica](https://www.youtube.com/watch?v=n8Dd5aVXLCc) to prevent connecting people with new thought-provoking ideas. Our communication is mediated by data-driven analytics that mean to segregate us into echo-chambers. 
+
+## Twitter and Science Communication
 
 
 # Treatment
 Our narratives are diverse and wildly appealing, use them.
 
 ## Climate Change and the Language of Evolution
+
+
 
 # Footnotes
 1. See Mishler 1999, "Getting Rid of Species?" *Species: New Interdisciplinary Essays.*
