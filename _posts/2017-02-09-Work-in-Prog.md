@@ -27,8 +27,7 @@ I first wish to talk about Linnaeus. Just to get on the same page, I want to giv
 2. If you want your ideas to spread, have apostles. Worked for Linnaeus *and* Jesus.
 
 For me, what is striking about Linnaeus' system is his distinction between "real" taxa which for him are genera and species and the artificial distinctions of his "sexual system." In many ways, this was a real innovation and the ubiquity of Linnaean taxonomy, I would argue, is that we generally still believe species are real. But why even have artificial distinctions? Well, it is becuase this distinction, though imperfect and somewhat artificial, for Linnaeus reflected the "secret working-plan of the creator" and was an improvement on all the other systems of classification because so (ref 1).
-In fact, the modern day narratives of uncovering the wonders of the natural world, I argue reflect his ideology. Why are we so afraid of losing biodiversity? Why do we care that 80% of the world's estimated species go unnamed? Is it not because we find ourselves as Linnaeus did, stewards of God's earth, Adam, the one's to name and to know all of creation? And why do we feel this way, we're mostly non-religious these days? It is because Linnaeus changed the language by which we work! 
-
+In fact, the modern day narratives of uncovering the wonders of the natural world, I argue reflect his ideology. Why are we so afraid of losing biodiversity? Why do we care that ~80% of the world's estimated species go unnamed (2)? Is it not because we find ourselves as Linnaeus did, stewards of God's earth, a second Adam, the one's to name and to know all of creation? And why do we feel this way, we're mostly non-religious these days? It is because Linnaeus changed the language by which we work! These narratives are nested in the language we use to speak about biology.
 
 ## The French Critics
 Buffon
@@ -37,22 +36,17 @@ Buffon
 
 
 # Problematic
-How do we deal with our complex linguistic past? We are in constant dialogue with past ideas because we still borrow from their nomenclature daily.
+How do we communicated new ideas? Twitter. But, when ideas become reduced to "this is right" kinds of arguments, which scientists often fall prey to, it becomes easier for sorting algorithms (our collective brain, e.g. [Cambridge Analytica](https://www.youtube.com/watch?v=n8Dd5aVXLCc) to prevent connecting people with new thought-provoking ideas.
 
-How do we communicated new ideas? Twitter. But, when ideas become reduced to "this is right" kinds of arguments, which scientists often fall prey to, it becomes easier for sorting algorithms (our collective brain, e.g. Cambridge Analytics) to prevent a free exchange of ideas.
-
-We you use the language of others you use their truths, when you change the language you create a new truth. 
 
 # Treatment
 Our narratives are diverse and wildly appealing, use them.
 
-
-## Talk about the OTS Course
-
 ## Climate Change and the Language of Evolution
 
 # Footnotes
-1. See Mishler (1999), "Getting Rid of Species?" *Species: New Interdisciplinary Essays.*
+1. See Mishler 1999, "Getting Rid of Species?" *Species: New Interdisciplinary Essays.*
+2. See Mora *et al.* 2011, ["How Many Species Are There on Earth and in the Ocean?"](http://wormlab.biology.dal.ca/publication/view/mora-c-tittensor-dp-adl-s-simpson-agb-worm-b-2011-how-many-species-are-there-on-earth-and-in-the-ocean/) *PLoS Biology
 
 # References
 1. ENGEL-LEDEBOER, M.S.J., "CAROLUS LINNAEUS AND THE SYSTEMA NATURAE."
