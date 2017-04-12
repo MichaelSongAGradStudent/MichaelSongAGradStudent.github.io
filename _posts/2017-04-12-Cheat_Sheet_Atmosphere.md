@@ -13,28 +13,28 @@ Let's log into [Atmosphere on Jetstream](https://auth.globus.org/p/login?redirec
 Cool.
 
 #### We're going to launch an instance which is like a computer in the cloud.
-![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT1.jpg)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/master/images/AT1.jpg)
 
 #### This one is good. Note the different stuff it already has loaded onto it.
-![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT2.jpg)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/master/images/AT2.jpg)
 
 #### You can make a project and add this instance to the project.
-![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT3.jpg)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/master/images/AT3.jpg)
 
 #### Pick the size you need and launch!
-![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT4.jpg)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/master/images/AT4.jpg)
 
 #### Once the instance is active, you can launch a web shell to work on it.
-![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT5.jpg)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/master/images/AT5.jpg)
 
 #### Nice work!
-![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT6.jpg)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/master/images/AT6.jpg)
 
 ## Accessing your iPlant data
 So this is pretty chill. But we need to get the data from our other cloud. We've been using the [Discovery on Cyverse](https://de.cyverse.org/de/)
 
 #### Let's log on and find where our stuff is...
-![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT7.jpg)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/master/images/AT7.jpg)
 
 Great now let's set up iRODS
 
