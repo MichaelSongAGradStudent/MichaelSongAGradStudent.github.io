@@ -13,28 +13,28 @@ Let's log into [Atmosphere on Jetstream](https://auth.globus.org/p/login?redirec
 Cool.
 
 #### We're going to launch an instance which is like a computer in the cloud.
-<img src="/images/AT1.jpg" alt="I am the fern">
+<img src="/images/AT1.jpg" width="200" height="40"  alt="I am the fern">
 
 #### This one is good. Note the different stuff it already has loaded onto it.
-<img src="/images/AT2.jpg" alt="I am the fern">
+<img src="/images/AT2.jpg" width="200" height="40"  alt="I am the fern">
 
 #### You can make a project and add this instance to the project.
-<img src="/images/AT3.jpg" alt="I am the fern">
+<img src="/images/AT3.jpg" width="200" height="40"  alt="I am the fern">
 
 #### Pick the size you need and launch!
-<img src="/images/AT4.jpg" alt="I am the fern">
+<img src="/images/AT4.jpg" width="200" height="40"  alt="I am the fern">
 
 #### Once the instance is active, you can launch a web shell to work on it.
-<img src="/images/AT5.jpg" alt="I am the fern">
+<img src="/images/AT5.jpg" width="200" height="40"  alt="I am the fern">
 
 #### Nice work!
-<img src="/images/AT6.jpg" alt="I am the fern">
+<img src="/images/AT6.jpg" width="200" height="40"  alt="I am the fern">
 
 ## Accessing your iPlant data
 So this is pretty chill. But we need to get the data from our other cloud. We've been using the [Discovery on Cyverse](https://de.cyverse.org/de/)
 
 #### Let's log on and find where our stuff is...
-<img src="/images/AT7.jpg" alt="I am the fern">
+<img src="/images/AT7.jpg" width="200" height="40"  alt="I am the fern">
 
 Great now let's set up iRODS
 
