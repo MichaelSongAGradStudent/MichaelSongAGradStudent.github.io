@@ -13,28 +13,28 @@ Let's log into [Atmosphere on Jetstream](https://auth.globus.org/p/login?redirec
 Cool.
 
 #### We're going to launch an instance which is like a computer in the cloud.
-![](MichaelSongAGradStudent.github.io/AT1.png)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT1.png)
 
 #### This one is good. Note the different stuff it already has loaded onto it.
-![](MichaelSongAGradStudent.github.io/AT2.png)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT2.png)
 
 #### You can make a project and add this instance to the project.
-![](MichaelSongAGradStudent.github.io/AT3.png)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT3.png)
 
 #### Pick the size you need and launch!
-![](MichaelSongAGradStudent.github.io/AT4.png)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT4.png)
 
 #### Once the instance is active, you can launch a web shell to work on it.
-![](MichaelSongAGradStudent.github.io/AT5.png)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT5.png)
 
 #### Nice work!
-![](MichaelSongAGradStudent.github.io/AT6.png)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT6.png)
 
 ## Accessing your iPlant data
 So this is pretty chill. But we need to get the data from our other cloud. We've been using the [Discovery on Cyverse](https://de.cyverse.org/de/)
 
 #### Let's log on and find where our stuff is...
-![](MichaelSongAGradStudent.github.io/AT7.png)
+![](https://github.com/MichaelSongAGradStudent/MichaelSongAGradStudent.github.io/blob/master/images/AT7.png)
 
 Great now let's set up iRODS
 
