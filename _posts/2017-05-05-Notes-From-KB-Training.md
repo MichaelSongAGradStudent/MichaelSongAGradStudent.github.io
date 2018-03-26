@@ -12,10 +12,8 @@ On March 4-5th 2017 UAW 2865 had an organizing training with KB Brower of the Pe
 5. [The three-point conversation](#paragraph4)
 6. [The eight-point conversation](#paragraph5)
 7. [How to answer tough questions](#paragraph6)
-8. [How to run a strike](#paragraph7)
-9. [How to create an organizing committee](#paragraph8)
-10. [How to turn an issue into a campaign](#paragraph9)
-11. [The Timeline](#paragraph10)
+8. [How to create an organizing committee](#paragraph7)
+9. [How to turn an issue into a campaign](#paragraph8)
 
 
 ## What is our union? What is social justice unionism? <a name="introduction"></a>
@@ -117,39 +115,6 @@ Here are some tough questions we could encounter:
 
 Again, remember to affirm, answer, redirect. Everyone cares about something; it's our job to find what their real issues are!
 
-## How to run a strike <a name="paragraph7"></a>
-Our contract with the school expires **June 30, 2018**
-
-Planning for an Unfair Labor Practice (ULP) Strike, usually 1-2 days long.
-
-* Step 1: Send out a bargaining survey
-    + get people buying in!
-    + last time 15-20% participation
-    + it is the best excuse to talk to people!
-    
-* Step 2: Negotiation Team/Organizing Committee
-    + We want the OC to represent a majority
-    
-* Step 3: Publicly focus on issues that resonate with the majority of members
-
-    *Negotiations*
-
-* Step 4: Use negotiations to galvanize your members and increase membership
-
-    *Negotiations*
-
-* Step 5: Structure test (e.g. a petition) with each test an increase in participation
-
-    *Negotiations*
-
-* Step 6: Strike Authorization Vote
-    + We want an active and intentional reaching out for votes
-    + Last time 17% statewide voted
-
-    *Negotiations*
-
-* Step 7: **STRIKE**
-
 ## How to create an organizing committee <a name="paragraph8"></a>
 Ideally our OCs are made up of the real leaders representing each and every department especially from the top 20.
 
@@ -213,52 +178,3 @@ Also to think about our organization, both:
     + Testing structure through petitions, getting to 75%
     + Sending a delegation to the target with great participation
     
-## The Timeline <a name="paragraph10"></a>
-
-### Spring 2017
-We currently have ~35% membership UC-wide and our goal is to increase by 5% each quarter. At Berkeley this means around 150 new members a quarter.
-
-* Finalize bargaining survey
-* Launch survey in April
-* Build OCs on every campus
-
-### Summer 2017
-Goal: 45% membership
-
-* Prepare for Fall orientation membership drive
-* Hire part-time staff to help organize
-
-### Fall 2017
-Goal: 50% membership
-
-* Fall orientation blitz
-* Relaunch bargaining survey
-    + Goal: get to 50%
-* November 2017, Bargaining Convention
-    + Goal: get over 180 leaders from each of the top 20 departments to attend
-* Goal: Get to a majority OC
-
-### Winter 2018
-Goal: 55% membership
-
-* January 2018, Sunshine demands
-
-### Spring 2018
-Goal: 60% membership
-
-* March 2018, Start negotiating
-* Structure test: Petition
-    + Goal: 60% response rate
-
-### Summer 2018
-Goal: 65% membership
-
-* June 30, 2018, **Contract Expires**
-* Prepare for Fall orientation membership drive
-* Hire part-time staff to help organize
-
-### Fall 2018
-Goal: 70% membership
-
-* Fall orientation blitz
-* **STRIKE**
