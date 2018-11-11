@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 ### Research Interests
-I study the evolution of ferns at UC Berkeley in the Rothfels Lab in Integrative Biology. I am interested in the role polyploidy has had in the diversification of plants.
+I study the evolution of ferns at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. I am interested in the role polyploidy has had in the diversification of plants.
 Some projects currently underway:
 
 1. Total evidence dating under the fossilized-brtih-death process in Salviniales, implemented in [RevBayes](https://revbayes.github.io/).
@@ -11,9 +11,10 @@ Some projects currently underway:
 3. 16S Microbiome analyses of *Azolla* leaf pockets across the genus.
 
 ![](/images/fern2.jpg)
+What fern is this? Take the [OTS Fern Course](https://tropicalstudies.org/course/tropical-ferns-and-lycophytes/) to find out!
 
-### Upcoming talks and posters VISIT ME!:
-
+### Upcoming talks and events. VISIT ME!:
+11/18/2018 -- Labor Choir at the Sangria Club
 
 ### Find Me
 <iframe src="
