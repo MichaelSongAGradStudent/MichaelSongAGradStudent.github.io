@@ -1,6 +1,7 @@
 On October 20, I had the wonderful opportunity and priviledge to present the following paper at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
 This paper is a **super rough draft** of a paper that I am developing, but enough people have expressed interest that I thought I would share it now.
-![](/images/mick8.png)
+
+<img src="/images/mick8.png" alt="Mick in Ishi Court" style="width:700px">
 
 ## On the Possibility of Plant Knowledges
 Michael Song, PhD Candidate
