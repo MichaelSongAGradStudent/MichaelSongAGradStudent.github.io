@@ -10,9 +10,6 @@ Some projects currently underway:
 2. Exploring hidden states in various State-dependent Speciation and Extinction (SSE) models.
 3. 16S Microbiome analyses of *Azolla* leaf pockets across the genus.
 
-![](/images/fern2.jpg)
-What fern is this? Take the [OTS Fern Course](https://tropicalstudies.org/course/tropical-ferns-and-lycophytes/) to find out!
-
 ## Upcoming talks and events. VISIT ME!:
 11/18/2018 -- Labor Choir at the Sangria Club
 
