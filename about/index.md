@@ -13,9 +13,6 @@ Some projects currently underway:
 I am also broadly interested in plants and their uses as food, symbols, metaphors, and medicine.
 I have most recently presented my work on plant metaphors at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
 
-## Upcoming talks and events. VISIT ME!:
-11/18/2018 -- Labor Choir at the Sangria Club
-
 ## Find Me
 <iframe src="
 https://calendar.google.com/calendar/embed?src=michael_song%40berkeley.edu&ctz=America/Los_Angeles
