@@ -2,7 +2,7 @@
 layout: default
 title: Teaching
 ---
-## Undergraduate Thesis Suprevision
+## Undergraduate Thesis Supervision
 
 Jonathan Qu (2018), UC Berkeley Undergraduate honors thesis, "Resolving reticulate evolution of Polysticum in California."
 
