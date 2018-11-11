@@ -2,7 +2,7 @@
 layout: default
 title: About me
 ---
-### Research Interests
+## Research Interests
 I study the evolution of ferns at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. I am interested in the role polyploidy has had in the diversification of plants.
 Some projects currently underway:
 
@@ -13,10 +13,10 @@ Some projects currently underway:
 ![](/images/fern2.jpg)
 What fern is this? Take the [OTS Fern Course](https://tropicalstudies.org/course/tropical-ferns-and-lycophytes/) to find out!
 
-### Upcoming talks and events. VISIT ME!:
+## Upcoming talks and events. VISIT ME!:
 11/18/2018 -- Labor Choir at the Sangria Club
 
-### Find Me
+## Find Me
 <iframe src="
 https://calendar.google.com/calendar/embed?src=michael_song%40berkeley.edu&ctz=America/Los_Angeles
 " style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
