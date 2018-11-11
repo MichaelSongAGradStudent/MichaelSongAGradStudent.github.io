@@ -13,6 +13,8 @@ Some projects currently underway:
 I am also broadly interested in plants and their uses as food, symbols, metaphors, and medicine.
 I have most recently presented my work on plant metaphors at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
 
+Not necessarily plant related, but I have been taking Ancient Greek for a couple years now and am also learning Russian. I am fascinated by translation as much as I am afraid of it. So perhaps this terror will lead to new creative and scholastic endeavors, but as of now it is definitely at least a "research interest."
+
 ## Find Me
 <iframe src="
 https://calendar.google.com/calendar/embed?src=michael_song%40berkeley.edu&ctz=America/Los_Angeles
