@@ -4,11 +4,15 @@ title: About me
 ---
 ## Research Interests
 I study the evolution of ferns at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. I am interested in the role polyploidy has had in the diversification of plants. In particular, I am fascinated by a minute floating heterosporous fern [*Azolla*](https://btiscience.org/explore-bti/news/post/fern-tastic-genomes-in-nature-plants/) and in the evolution of the [floating ferns](https://en.wikipedia.org/wiki/Salviniales) more generally.
-Some projects currently underway:
+Some dissertation projects currently underway:
 
 1. Total evidence dating under the fossilized-brtih-death process in Salviniales, implemented in [RevBayes](https://revbayes.github.io/).
 2. Exploring hidden states in various State-dependent Speciation and Extinction (SSE) models.
 3. 16S Microbiome analyses of *Azolla* leaf pockets across the genus.
+
+When I am not working on my dissertation, I sometimes work on projects with these long-time research collaborators:
+- [Jeremy Coate](https://sites.google.com/site/coatejeremy/), Visiting Assistant Professor of Biology, Reed College, on polyploidy related matters.
+- [Sarah Schaack](https://sites.google.com/site/schaackwork/), Assistant Professor of Biology, Reed College, on transposable element fun. 
 
 I am also broadly interested in plants and their uses as food, symbols, metaphors, and medicine.
 I have most recently presented my work on plant metaphors at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
