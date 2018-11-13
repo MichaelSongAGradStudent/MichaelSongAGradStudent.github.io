@@ -21,6 +21,9 @@ I am also a part of a cadre of Reed College graduates who are doing great work i
 
 Collaboration is the creative force that inspires me to keep working and publishing, so if you are interested in similar stuff I'd love to work with you, whether it be academic, artistic, or about building working-class power. Just let me know! You can email me or even better, send a letter. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8wsjlsghPH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Holiday embedded video of me and my colleagues and comrades who fight the good fight, because our working conditions are our students' learning conditions.*
+
 ## Find Me
 <iframe src="
 https://calendar.google.com/calendar/embed?src=michael_song%40berkeley.edu&ctz=America/Los_Angeles
