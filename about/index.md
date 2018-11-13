@@ -15,6 +15,12 @@ I have most recently presented my work on plant metaphors at the 2018 UC Berkele
 
 Not necessarily plant related, but I have been taking Ancient Greek for a couple years now and am also learning Russian. I am fascinated by translation as much as I am afraid of it. So perhaps this terror will lead to new creative and scholastic endeavors, but as of now it is definitely at least a "research interest."
 
+I am a part of the Botany Suite, a small working group of plant scientists at Cornell University and UC Berkeley. Members include [Jesus Martinez-Gomez](https://jesusthebotanist.github.io/), [Carrie Tribble](https://carrietribble.weebly.com/), [Betsy Castro](http://betsabecastro.com/), and [Isaac Lichter‐Marck](https://www.researchgate.net/profile/Isaac_Lichter-Marck). We are also a [band](https://botanysuite.bandcamp.com/releases).
+
+I am also a part of a cadre of Reed College graduates who are doing great work in graduate school and often collaborate with them. Some of them include [Jimmy LaBelle '15 (Political Scienece, Columbia)](https://polisci.columbia.edu/content/james-william-labelle), [Joshua Gancher '16 (Cryptography, Cornell)](https://www.initc3.org/people.html), [Jacob Robertson '15 (Biology, UCSD)](https://www.researchgate.net/profile/Jacob_Robertson3), [Rennie Meyers '15 (Marine Affairs, URI)](https://builtfromcrookedtimber.com/about/hello/). Expect some joint publications in the future. 
+
+Collaboration is the creative force that inspires me to keep working and publishing, so if you are interested in similar stuff I'd love to work with you, whether it be academic, artistic, or about building working-class power. Just let me know! You can email me or even better, send a letter. 
+
 ## Find Me
 <iframe src="
 https://calendar.google.com/calendar/embed?src=michael_song%40berkeley.edu&ctz=America/Los_Angeles
