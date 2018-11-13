@@ -54,6 +54,6 @@ Attendance is optional but recommended. Pass-no pass.
 
 1. [FernBase](https://www.fernbase.org/)
 
-**Photos of Plants**
+**Photos of Plants from Class**
 
 *coming soon*
