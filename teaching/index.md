@@ -2,11 +2,8 @@
 layout: default
 title: Teaching
 ---
-
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-
 <script src="http://malsup.github.com/jquery.cycle2.js"></script>
-
 ## Undergraduate Thesis Supervision
 
 Jonathan Qu (2018), UC Berkeley Undergraduate honors thesis, "Resolving reticulate evolution of Polysticum in California."
