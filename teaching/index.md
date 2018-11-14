@@ -2,6 +2,10 @@
 layout: default
 title: Teaching
 ---
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="http://malsup.github.com/jquery.cycle2.js"></script>
+
 ## Undergraduate Thesis Supervision
 
 Jonathan Qu (2018), UC Berkeley Undergraduate honors thesis, "Resolving reticulate evolution of Polysticum in California."
@@ -10,6 +14,7 @@ Jonathan Qu (2018), UC Berkeley Undergraduate honors thesis, "Resolving reticula
 [**UC Berkeley IB 290 -- Plant Survey**](https://michaelsongagradstudent.github.io/blog/2018/11/13/Integrative-Biology-290-375-Syllabus)
 
 ## Other Courses I have taught
+
 <div class="pics"> 
     <img src="/images/5.JPG" width="200" height="200" /> 
     <img src="/images/6.JPG" width="200" height="200" /> 
