@@ -1,4 +1,5 @@
 <img src="/images/union1.jpg" width="700">
+
 *"Though cowards flinch and traitors sneer, we'll keep the red flag flying here"*
 
 On November 11 2018, several dozen rank-and-file members presented evidence at an hearing to appeal for the annulment of the contract ratification that occured this summer.
