@@ -33,11 +33,84 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.2em;
 }
 
 ul.posts li {
     list-style: none;
+}
+
+#orbit-universe {
+  position: relative;
+  height: 600px;
+  width: 600px;
+}
+
+#orbit-sun {
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  width: 400px;
+  height: 400px;
+}
+
+.orbit-container {
+  position: absolute;
+  border-radius: 100%;
+}
+
+.mars-container {
+  top: 125px;
+  left: 125px;
+  width: 350px;
+  height: 350px;
+  -webkit-animation: spin-right 10s linear infinite;
+  animation: spin-right 10s linear infinite;
+}
+
+#mars {
+  top: 50px;
+  left: -100px;
+}
+
+.earth-container {
+  top: 75px;
+  left: 75px;
+  width: 450px;
+  height: 450px;
+  -webkit-animation: spin-right 15s linear infinite;
+  animation: spin-right 15s linear infinite;
+}
+
+#earth {
+  top: 100px;
+  left: -10px;
+}
+
+.uranus-container {
+  width: 600px;
+  height: 600px;
+  -webkit-animation: spin-right 20s linear infinite;
+  animation: spin-right 20s linear infinite;
+}
+
+#earth {
+  top: -50px;
+  left: 20px;
+}
+
+.planet {
+  position: absolute;
+}
+
+@-webkit-keyframes spin-right {
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
 }
