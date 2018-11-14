@@ -22,9 +22,10 @@ natural history, taxonomy, and systematics of a clade of their interest—a hand
 style class discussion (possibly with keying activities, and culinary or ethnobotanical
 experiences). The instructors will work with the herbarium and UCMP to allow students access
 to most of the museum material and will then take a backseat to their expertise, though they will
-lead a couple discussions themselves. The level of the material covered will thus be largely
-driven by the students taking the course, but we anticipate focusing mostly on mosses, ferns, and
-lichens. For the purposes of the class, plants will be loosely defined as those organisms treated
+lead a couple discussions themselves. The material covered will thus be largely
+driven by the students taking the course, but we definitely would like to cover ferns, fern allies, and bryophytes.
+Flowering plants of course will also make a significant appearance.
+For the purposes of the class, plants will be loosely defined as those organisms treated
 by the International Code of Nomenclature for algae, fungi, and plants so lichenologists,
 mycologists, phycologists, and Friends of the Jepson Herbarium are welcome, as well as any
 student generally interested in plants.
