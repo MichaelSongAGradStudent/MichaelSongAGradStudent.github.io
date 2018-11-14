@@ -5,7 +5,7 @@ title: Teaching
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
-<script src="http://malsup.github.com/jquery.cycle.js"></script>
+<script src="http://malsup.github.com/jquery.cycle2.js"></script>
 
 ## Undergraduate Thesis Supervision
 
@@ -16,7 +16,11 @@ Jonathan Qu (2018), UC Berkeley Undergraduate honors thesis, "Resolving reticula
 
 ## Other Courses I have taught
 
-<div class="pics"> 
+<div class="cycle-slideshow"
+    data-cycle-fx="scrollHorz"
+    data-cycle-pause-on-hover="true"
+    data-cycle-speed="200"
+    >
     <img src="/images/5.JPG" width="200" height="200" /> 
     <img src="/images/6.JPG" width="200" height="200" /> 
     <img src="/images/7.JPG" width="200" height="200" /> 
