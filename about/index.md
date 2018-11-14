@@ -4,6 +4,7 @@ title: About me
 ---
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
 
+
 ## Research Interests
 I study the evolution of ferns at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. I am interested in the role polyploidy has had in the diversification of plants. In particular, I am fascinated by a minute floating heterosporous fern [*Azolla*](https://btiscience.org/explore-bti/news/post/fern-tastic-genomes-in-nature-plants/) and in the evolution of the [floating ferns](https://en.wikipedia.org/wiki/Salviniales) more generally.
 Some dissertation projects currently underway:
