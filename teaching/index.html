@@ -1,19 +1,14 @@
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Teaching</title>
 <link rel=stylesheet href="/css/main.css">
 <link rel=stylesheet href="demo-slideshow.css">
-<style>.adsbygoogle { display: block; margin:auto }</style>
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 <script src="http://malsup.github.io/jquery.cycle2.js"></script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>if (screen.width < 640)  document.write('<style>.adsbygoogle { display: none }</style>');</script>
+
 </head>
 <body>
-<div class=page-header>
-    <h1><a href="../"><img id=logo src="../logo.png" width=48 height=48></a> Teaching</h1>
-</div>
-    
 
 <div id="main">
 
@@ -58,19 +53,6 @@
 
 var slideshows = $('.cycle-slideshow');
 
-// optional: sort the slideshow collection based on the value of the data-index attribute
-Array.prototype.sort.call( slideshows, function(a, b) {
-    a = $(a).data('index'), b = $(b).data('index');
-    return a < b ? -1 : a > b ? 1 : 0;
-});
-
-// bind to cycle-after to trigger next slideshow's transition
-$('#container').on('cycle-after', function(e) {
-    var index = slideshows.index(e.target);
-    transitionNext(index);
-});
-
-// trigger the initial transition after 1 second
 setTimeout(transitionNext, 1000);
 
 function transitionNext( index ) {
