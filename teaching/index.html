@@ -6,73 +6,9 @@ title: Mick's CV
 <head>
 
 <title>Teaching</title>
-<link rel=stylesheet href="/css/main.css">
-<link rel=stylesheet href="demo-slideshow.css">
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-<script src="http://malsup.github.io/jquery.cycle2.js"></script>
-
-</head>
-<body>
-
-<div id="main">
-
-<script src="http://malsup.github.io/jquery.cycle2.scrollVert.js"></script>
-
-
-<style>
-.cycle-slideshow { max-width: 300px; display: inline-block; margin: 0 }
-#container { width: 600px; margin: auto }
-</style>
-
-<h3>Work by my students I am proud of</h3>
-<p>
-<div id=container>
-    <div class="cycle-slideshow" 
-        data-cycle-fx=scrollHorz
-        data-cycle-reverse=true
-        data-cycle-timeout=0
-        data-index=1
-        >
-        <img src="http://MichaelSongAGradStudent.github.io/images/1.JPG">
-        <img src="http://MichaelSongAGradStudent.github.io/images/2.JPG">
-        <img src="http://MichaelSongAGradStudent.github.io/images/3.JPG">
-        <img src="http://MichaelSongAGradStudent.github.io/images/4.JPG">
-    </div>
-
-    <div class="cycle-slideshow" 
-        data-cycle-fx=scrollVert
-        data-cycle-timeout=0
-        data-index=2
-        >
-        <img src="http://MichaelSongAGradStudent.github.io/images/5.JPG">
-        <img src="http://MichaelSongAGradStudent.github.io/images/6.JPG">
-        <img src="http://MichaelSongAGradStudent.github.io/images/7.JPG">
-        <img src="http://MichaelSongAGradStudent.github.io/images/8.JPG">
-    </div>
-
-
-<script>
-(function() {
-"use strict";
-
-var slideshows = $('.cycle-slideshow');
-
-setTimeout(transitionNext, 1000);
-
-function transitionNext( index ) {
-    if (index === undefined || index == slideshows.length -1 )
-        index = 0;
-    else
-        index++;
-
-    slideshows.eq(index).cycle('next');
-}
-
-})();
-</script>
-
-</div> <!-- #main -->
+<h3>Upcoming Courses I teach</h3>
+<p><a href="https://michaelsongagradstudent.github.io/blog/2018/11/13/Integrative-Biology-290-375-Syllabus">UC Berkeley IB 290 -- Plant Survey</a></p>
 
 
 <h3>Guest Lectures</h3>
@@ -81,8 +17,5 @@ function transitionNext( index ) {
 <h3>Undergraduate Thesis Supervision</h3>
 
 <p>Jonathan Qu (2018), UC Berkeley Undergraduate honors thesis, "Resolving reticulate evolution of Polysticum in California."</p>
-
-<h3>Upcoming Courses I teach</h3>
-<p><a href="https://michaelsongagradstudent.github.io/blog/2018/11/13/Integrative-Biology-290-375-Syllabus">UC Berkeley IB 290 -- Plant Survey</a></p>
 
 </body>
