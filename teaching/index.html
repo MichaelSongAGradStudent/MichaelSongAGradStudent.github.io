@@ -13,12 +13,34 @@ title: Teaching
 
 <h3>Work by my students I am proud of</h3>
 
-<div class="cycle-slideshow">
-    <img src="/images/3.JPG" width="200" height="150" /> 
-    <img src="/images/4.JPG" width="200" height="150" /> 
-    <img src="/images/5.JPG" width="200" height="150" />
-    <img src="/images/6.JPG" width="200" height="150" />
-</div> 
+<div class="cycle-slideshow" 
+        data-cycle-fx="scrollHorz" 
+        data-cycle-timeout="2000"
+    >
+    <div class="cycle-caption"></div>
+    <img src="http://malsup.github.io/images/p1.jpg">
+</div>
+
+<div class=center>
+    <button>Add More Images</button>
+</div>
+
+<!-- script to add more images at a later time -->
+<script>
+var images = [
+    '<img src="/images/3.JPG" width="200" height="150" />',
+    '<img src="/images/4.JPG" width="200" height="150" />',
+    '<img src="/images/5.JPG" width="200" height="150" />',
+    '<img src="/images/6.JPG" width="200" height="150" />'
+];
+
+$('button').one('click', function() {
+    for (var i=0; i < images.length; i++) {
+        $('.cycle-slideshow').cycle('add', images[i]);
+    }
+    $(this).prop('disabled', true)
+})
+</script>
 
 <h3>Guest Lectures</h3>
 <p>I occationally guest lecture at Reed College: Biology 352 (Bioinformatics) and Biology 363 (Genes, Genetics, and Genomes).</p>
