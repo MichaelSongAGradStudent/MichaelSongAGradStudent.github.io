@@ -13,34 +13,123 @@ title: Teaching
 
 <h3>Work by my students I am proud of</h3>
 
-<div class="cycle-slideshow" 
-        data-cycle-fx="scrollHorz" 
-        data-cycle-timeout="2000"
-    >
-    <div class="cycle-caption"></div>
-    <img src="/images/1.JPG" width="200" height="150" />
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cycle2 Synchronized Slideshows</title>
+<link rel=stylesheet href="http://fonts.googleapis.com/css?family=Acme">
+<link rel=stylesheet href="../site.css">
+<link rel=stylesheet href="../demo/demo-slideshow.css">
+<style>.adsbygoogle { display: block; margin:auto }</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<script src="http://malsup.github.io/jquery.cycle2.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>if (screen.width < 640)  document.write('<style>.adsbygoogle { display: none }</style>');</script>
+</head>
+<body>
+<div class=page-header>
+    <h1><a href="../"><img id=logo src="../logo.png" width=48 height=48></a> Synchronized Slideshows</h1>
 </div>
 
-<div class=center>
-    <button>Add More Images</button>
+<div id="main">
+
+<script src="http://malsup.github.io/jquery.cycle2.scrollVert.js"></script>
+
+
+<style>
+.cycle-slideshow { max-width: 300px; display: inline-block; margin: 0 }
+#container { width: 600px; margin: auto }
+</style>
+
+<p>View source for details.
+
+<div id=container>
+    <div class="cycle-slideshow" 
+        data-cycle-fx=scrollHorz
+        data-cycle-reverse=true
+        data-cycle-timeout=0
+        data-index=1
+        >
+        <img src="http://malsup.github.io/images/beach1.jpg">
+        <img src="http://malsup.github.io/images/beach2.jpg">
+        <img src="http://malsup.github.io/images/beach3.jpg">
+        <img src="http://malsup.github.io/images/beach4.jpg">
+    </div>
+
+    <div class="cycle-slideshow" 
+        data-cycle-fx=scrollVert
+        data-cycle-timeout=0
+        data-index=2
+        >
+        <img src="http://malsup.github.io/images/beach1.jpg">
+        <img src="http://malsup.github.io/images/beach2.jpg">
+        <img src="http://malsup.github.io/images/beach3.jpg">
+        <img src="http://malsup.github.io/images/beach4.jpg">
+    </div>
+
+    <div class="cycle-slideshow" 
+        data-cycle-fx=scrollVert
+        data-cycle-timeout=0
+        data-cycle-reverse=true
+        data-index=4
+        >
+        <img src="http://malsup.github.io/images/beach1.jpg">
+        <img src="http://malsup.github.io/images/beach2.jpg">
+        <img src="http://malsup.github.io/images/beach3.jpg">
+        <img src="http://malsup.github.io/images/beach4.jpg">
+    </div>
+
+    <div class="cycle-slideshow" 
+        data-cycle-fx=scrollHorz
+        data-cycle-timeout=0
+        data-index=3
+        >
+        <img src="http://malsup.github.io/images/beach1.jpg">
+        <img src="http://malsup.github.io/images/beach2.jpg">
+        <img src="http://malsup.github.io/images/beach3.jpg">
+        <img src="http://malsup.github.io/images/beach4.jpg">
+    </div>
 </div>
 
-<!-- script to add more images at a later time -->
 <script>
-var images = [
-    '<img src="/images/3.JPG" width="200" height="150" />',
-    '<img src="/images/4.JPG" width="200" height="150" />',
-    '<img src="/images/5.JPG" width="200" height="150" />',
-    '<img src="/images/6.JPG" width="200" height="150" />'
-];
+(function() {
+"use strict";
 
-$('button').one('click', function() {
-    for (var i=0; i < images.length; i++) {
-        $('.cycle-slideshow').cycle('add', images[i]);
-    }
-    $(this).prop('disabled', true)
-})
+var slideshows = $('.cycle-slideshow');
+
+// optional: sort the slideshow collection based on the value of the data-index attribute
+Array.prototype.sort.call( slideshows, function(a, b) {
+    a = $(a).data('index'), b = $(b).data('index');
+    return a < b ? -1 : a > b ? 1 : 0;
+});
+
+// bind to cycle-after to trigger next slideshow's transition
+$('#container').on('cycle-after', function(e) {
+    var index = slideshows.index(e.target);
+    transitionNext(index);
+});
+
+// trigger the initial transition after 1 second
+setTimeout(transitionNext, 1000);
+
+function transitionNext( index ) {
+    if (index === undefined || index == slideshows.length -1 )
+        index = 0;
+    else
+        index++;
+
+    slideshows.eq(index).cycle('next');
+}
+
+})();
 </script>
+
+</div> <!-- #main -->
+
+
+<!-- google analytics -->
+<script src="http://www.google-analytics.com/urchin.js"></script>
+<script>_uacct = "UA-850242-2"; urchinTracker();</script>
+</body>
 
 <h3>Guest Lectures</h3>
 <p>I occationally guest lecture at Reed College: Biology 352 (Bioinformatics) and Biology 363 (Genes, Genetics, and Genomes).</p>
