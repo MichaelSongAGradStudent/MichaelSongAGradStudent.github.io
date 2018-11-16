@@ -19,18 +19,20 @@ date: 2018-11-15
 1. [Molecular Phylogenetic Relationships and Morphological Evolution in the Heterosporous Fern Genus Marsilea
 ](https://www.ingentaconnect.com/content/aspt/sb/2007/00000032/00000001/art00004?crawler=true&casa_token=nmY7M9d4ux8AAAAA:_O8BYD1uS5jd1WCBYSJmAYC7LXkgHybiKNped4fP2UGZXhirOlnj_juKmbDEEz2XxPOhYeGhyit0fmE).
 2. [An Expanded Plastid Phylogeny of Marsilea with Emphasis on North American Species](https://www.jstor.org/stable/pdf/23250764.pdf?casa_token=d0B0Ql62KswAAAAA:LeMK8k39v65BmubRvGVwImCmZ1Vv-7uN2OlyafP3qSxlyxsTd6_bW3vBWvsbZ3VWN5UI5WnoZKce9DlB7L7Jaya45sMmCfQJiuoL9vTTDc039r0s4ho).
-3. []().
+3. [Assessing phylogenetic relationships in extant heterosporous ferns (Salviniales), with a focus on Pilularia and Salvinia ](https://academic.oup.com/botlinnean/article/157/4/673/2418245).
+4. [Phylogeny and Divergence Time Estimates for the Fern Genus Azolla (Salviniaceae)](https://www.jstor.org/stable/pdf/10.1086/519007.pdf?casa_token=gLMlNRVY8rYAAAAA:bwbUMg0if7-QcWVNCDO-71E1I3br3qz9fUqEgzlaN5JiJEoTtvkLm4zd26J0sQeVO49RCYFYyKsIItOSxiSvBKu7h0n2VY8b2I8MOwxeKzLefGPBAks).
 
 ### Methods
-1. []().
-2. []().
-3. []().
+1. [Bayesian Total-Evidence Dating Reveals the Recent Crown Radiation of Penguins](https://academic.oup.com/sysbio/article/66/1/57/2670056).
+2. [Combined-Evidence Analysis and the Fossilized Birth-Death Process for Stratigraphic Range Data](https://revbayes.github.io/tutorials/fbd/).
+3. [Total-Evidence Dating under the Fossilized Birth–Death Process](https://academic.oup.com/sysbio/article/65/2/228/2427164).
 
 ## SSE Models and hidden states
 
 1. [Cladogenetic and Anagenetic Models of Chromosome Number Evolution: A Bayesian Model Averaging Approach](https://www.biorxiv.org/content/biorxiv/early/2017/03/31/086629.full.pdf).
 2. [Hidden state models improve the adequacy of state-dependent diversification approaches using empirical trees, including biogeographical models](https://www.biorxiv.org/content/biorxiv/early/2018/04/17/302729.full.pdf).
-3. []().
+3. [Modeling chromosome evolution with ChromEvol, BiChroM, and ChromoSSE](https://revbayes.github.io/tutorials/chromo/).
+4. [State-dependent diversification with HiSSE and ClaSSE](https://revbayes.github.io/tutorials/sse/other-sse.html).
 
 ## Azolla leaf pocket microbiome
 
