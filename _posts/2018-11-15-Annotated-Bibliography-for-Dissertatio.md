@@ -37,6 +37,5 @@ date: 2018-11-15
 ## Azolla leaf pocket microbiome
 
 1. [Is there foul play in the leaf pocket?](https://nph.onlinelibrary.wiley.com/doi/pdf/10.1111/nph.14843).
-2. []().
-3. []().
+2. [Fern genomes elucidate land plant evolution and cyanobacterial symbioses](https://www.nature.com/articles/s41477-018-0188-8).
  
