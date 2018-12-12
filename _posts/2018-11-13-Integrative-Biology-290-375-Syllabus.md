@@ -2,7 +2,7 @@
 ![](https://fikus.guru/images/293698/fullsize.jpg)
 
 INTEGBI  290 - 375  Research Seminar.
-Spring 2019. Course number 12334. Tentatively scheduled on Wednesdays 11AM-12PM. 1-2 units.
+Spring 2019. Course number 12334. Tentatively scheduled on Wednesdays 10AM-11PM. 1-2 units.
 
 **Instructor of Record:** Carl Rothfels;
 **Office:** 1084 VLSB, in the Herbarium;
