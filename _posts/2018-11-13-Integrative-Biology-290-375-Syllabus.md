@@ -5,8 +5,11 @@
 Integrative Biology 290 375, Spring 2019
 
 **Instructor**: Carl Rothfels, Bruce Baldwin, Michael Song
+
 E-mail: crothfels [at] berkeley.edu, michael_song [at] berkeley.edu
+
 Course number 12334
+
 Office hours: by appointment
 
 **Seminar times:** Wednesdays 10AM-11AM VLSB 3030
