@@ -24,7 +24,7 @@ A possible optional “final” could be a weekend field trip to collect plants 
 
 | Date                   | Presenter | Plant | References |
 |------------------------|-----------|-------|------------|
-|Jan 30                  |Carl  R.   |*Cystopteris* ||
+|Jan 30                  |Carl  R.   |*Cystopteris* |[A plastid phylogeny of the cosmopolitan fern family Cystopteridaceae](https://sites.duke.edu/pryerlab/files/2017/12/cystopteridaceae_plastid_phylogeny.original.pdf)|
 |Feb 6                   |Jonathan   |*Polystichum* ||
 |Feb 13                  |Keir       |*Pentagramma* ||
 |Feb 20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)||
