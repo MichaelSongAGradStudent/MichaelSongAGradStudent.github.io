@@ -28,18 +28,18 @@ A possible optional “final” could be a weekend field trip to collect plants 
 | Date                   | Presenter | Plant        | References |
 |------------------------|-----------|--------------|------------|
 |Jan 30                  |Carl  R.   |*Cystopteris* |[A plastid phylogeny of the cosmopolitan fern family Cystopteridaceae](https://sites.duke.edu/pryerlab/files/2017/12/cystopteridaceae_plastid_phylogeny.original.pdf)|
-|Feb 6                   |Jonathan   |*Polystichum* ||
+|Feb 06                  |Jonathan   |*Polystichum* ||
 |Feb 13                  |Keir       |*Pentagramma* ||
 |Feb 20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)||
 |Feb 27                  |Isaac      |*Perityle*    ||
-|Mar 6                   |Joyce      |*Paullinia* and Sapindaceae ||
+|Mar 06                  |Joyce      |*Paullinia* and Sapindaceae ||
 |Mar 13                  |Kayla      |*Arctostaphylos* ||
 |Mar 20                  |Carrie     |*Bomarea et al.*  ||
-|Apr 3                   |Jaemin     |Extinct Gymnosperm (maybe Czekanowskiales)  ||
+|Apr 03                  |Jaemin     |Extinct Gymnosperm (maybe Czekanowskiales)  ||
 |Apr 10                  |Jenna      |some moss...  ||
 |Apr 17                  |Ixchel     |Liverwort  ||
 |Apr 24                  |Abby       |*Astrolepis*   ||
-|May 1                   |Mick       |Salviniales    ||
+|May 01                  |Mick       |Salviniales    ||
 
 **Updated List of Resources Provided by Presenters**
 
