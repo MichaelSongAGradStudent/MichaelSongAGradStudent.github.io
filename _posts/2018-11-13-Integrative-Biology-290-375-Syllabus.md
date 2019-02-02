@@ -39,6 +39,7 @@ A possible optional “final” could be a weekend field trip to collect plants 
 |Apr 10                  |Jenna      |some moss...  ||
 |Apr 17                  |Ixchel     |Liverwort  ||
 |Apr 24                  |Abby       |*Astrolepis*   ||
+|May 1                   |Mick       |Salviniales    ||
 
 **Updated List of Resources Provided by Presenters**
 
