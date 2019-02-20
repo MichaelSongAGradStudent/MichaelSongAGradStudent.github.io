@@ -1,4 +1,4 @@
-An short essay I wrote for Slavic 46 during Spring 2019.
+A short essay I wrote for Slavic 46 during Spring 2019.
 
 ## The Proem of 150 000 000
 
