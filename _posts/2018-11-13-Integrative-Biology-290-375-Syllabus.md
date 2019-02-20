@@ -4,7 +4,7 @@
 **Plant Survey Graduate Seminar**
 Integrative Biology 290 375, Spring 2019
 
-**Instructor**: Carl Rothfels, Bruce Baldwin, Michael Song
+**Instructor**: Carl Rothfels, Bruce Baldwin, Michael Song, Caleb Caswell-Levy
 
 E-mail: crothfels [at] berkeley.edu, michael_song [at] berkeley.edu
 
@@ -28,18 +28,18 @@ A possible optional “final” could be a weekend field trip to collect plants 
 | Date                   | Presenter | Plant        | References |
 |------------------------|-----------|--------------|------------|
 |Jan 30                  |Carl  R.   |*Cystopteris* |[A plastid phylogeny of the cosmopolitan fern family Cystopteridaceae](https://sites.duke.edu/pryerlab/files/2017/12/cystopteridaceae_plastid_phylogeny.original.pdf)|
-|Feb 06                  |Jonathan   |*Polystichum* ||
+|Feb 06                  |Jonathan   |*Polystichum* |[Melita's UVM undergrad thesis](http://www.uvm.edu/~dbarring/publications/schmeckpeperMS.pdf)|
 |Feb 13                  |Keir       |*Pentagramma* ||
-|Feb 20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)||
+|Feb 20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)|[Forrest's surprise](https://drive.google.com/file/d/1uTVxYW9MbNkoo4wDrLSO8atfWkCAL29S/view)|
 |Feb 27                  |Isaac      |*Perityle*    ||
 |Mar 06                  |Joyce      |*Paullinia* and Sapindaceae ||
 |Mar 13                  |Kayla      |*Arctostaphylos* ||
 |Mar 20                  |Carrie     |*Bomarea et al.*  ||
 |Apr 03                  |Jaemin     |Extinct Gymnosperm (maybe Czekanowskiales)  ||
-|Apr 10                  |Jenna      |some moss...  ||
+|Apr 10                  |Bruce      |||
 |Apr 17                  |Ixchel     |Liverwort  ||
 |Apr 24                  |Abby       |*Astrolepis*   ||
-|May 01                  |Mick       |Salviniales    ||
+|May 01                  |Caleb and Jenna       |Some Moss    ||
 
 **Updated List of Resources Provided by Presenters**
 
