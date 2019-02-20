@@ -25,7 +25,7 @@ A possible optional “final” could be a weekend field trip to collect plants 
 
 **Course Schedule (as of Feb 1):**
 
-| Date                   | Presenter | Plant        | References |
+| Dates                  | Presenter | Plant        | References |
 |------------------------|-----------|--------------|------------|
 |Jan 30                  |Carl  R.   |*Cystopteris* |[A plastid phylogeny of the cosmopolitan fern family Cystopteridaceae](https://sites.duke.edu/pryerlab/files/2017/12/cystopteridaceae_plastid_phylogeny.original.pdf)|
 |Feb 06                  |Jonathan   |*Polystichum* |[Melita's UVM undergrad thesis](http://www.uvm.edu/~dbarring/publications/schmeckpeperMS.pdf)|
@@ -47,4 +47,4 @@ A possible optional “final” could be a weekend field trip to collect plants 
 
 **Photos of Plants from Class**
 
-*coming soon*
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbys_XCOKX36eYjuP9W43djgxWyb-n7eVf4vZZXpdqeDcNe-WQzyRyXOS-gHh28OEH3GL53Mdgs4Ut/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
