@@ -29,7 +29,7 @@ A possible optional “final” could be a weekend field trip to collect plants 
 |------------------------|-----------|--------------|------------|
 |Jan 30                  |Carl  R.   |*Cystopteris* |[A plastid phylogeny of the cosmopolitan fern family Cystopteridaceae](https://sites.duke.edu/pryerlab/files/2017/12/cystopteridaceae_plastid_phylogeny.original.pdf)|
 |Feb 06                  |Jonathan   |*Polystichum* |[Melita's UVM undergrad thesis](http://www.uvm.edu/~dbarring/publications/schmeckpeperMS.pdf)|
-|Feb 13                  |Keir       |*Pentagramma* ||
+|Feb 13                  |Keir       |*Pentagramma* |Keir's rad [Powerpoint](https://docs.google.com/presentation/d/1UA1i5u9KS6c7JKS1n9bp09ViiL32-mRuzUHgi1940-4/edit?usp=sharing)|
 |Feb 20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)|[Forrest's surprise](https://drive.google.com/file/d/1uTVxYW9MbNkoo4wDrLSO8atfWkCAL29S/view)|
 |Feb 27                  |Isaac      |*Perityle*    ||
 |Mar 06                  |Joyce      |*Paullinia* and Sapindaceae ||
