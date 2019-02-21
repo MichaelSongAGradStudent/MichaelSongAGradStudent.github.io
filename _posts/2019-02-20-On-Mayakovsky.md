@@ -52,6 +52,6 @@ The final formal aspect of this poem I wish to show betrays that the future in M
 ### Footnotes
 1. http://v-mayakovsky.com/biography.html
 2. As metaphors for capitalism and communism, it is interesting in this regard as it predicts the sentiments of “социализм в одной стране” which of course would come a couple years later in 1924.
-3. A transgression of societal norms so shocking that early editors of the Iliad have changed the line to “οἰωνοῖσί τε πᾶσι,” which makes less sense and is less interesting, but does reveal the deeply unnatural nature of this description of war. From Leslie Kurk, personal communication.
+3. A transgression of societal norms is so shocking that early editors of the Iliad have changed the line to “οἰωνοῖσί τε πᾶσι,” which makes less sense and is less interesting, but does reveal the deeply unnatural nature of this description of war. From Leslie Kurke, personal communication.
 4. Remembering our footnote about the Stalinist reading of Ivan as “социализм в одной стране,” this is an anti-Trotskyist position.   
 
