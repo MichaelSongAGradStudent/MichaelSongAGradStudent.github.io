@@ -41,9 +41,11 @@ A possible optional “final” could be a weekend field trip to collect plants 
 |Apr24                  |Abby       |*Astrolepis*   ||
 |May01                  |Caleb and Jenna       |Some Moss    ||
 
-**Updated List of Resources Provided by Presenters**
+**Resources**
 
 1. [FernBase](https://www.fernbase.org/)
+2. [CalFlora](https://www.calflora.org/)
+3. [Jepson eFlora](http://ucjeps.berkeley.edu/eflora/)
 
 **Photos of Plants from Class**
 
