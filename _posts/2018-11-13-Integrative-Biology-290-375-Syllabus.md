@@ -1,5 +1,5 @@
 ## Course Title: Botanical Survey
-![](https://fikus.guru/images/293698/fullsize.jpg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbys_XCOKX36eYjuP9W43djgxWyb-n7eVf4vZZXpdqeDcNe-WQzyRyXOS-gHh28OEH3GL53Mdgs4Ut/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **Plant Survey Graduate Seminar**
 Integrative Biology 290 375, Spring 2019
@@ -47,6 +47,3 @@ A possible optional “final” could be a weekend field trip to collect plants 
 2. [CalFlora](https://www.calflora.org/)
 3. [Jepson eFlora](http://ucjeps.berkeley.edu/eflora/)
 
-**Photos of Plants from Class**
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbys_XCOKX36eYjuP9W43djgxWyb-n7eVf4vZZXpdqeDcNe-WQzyRyXOS-gHh28OEH3GL53Mdgs4Ut/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
