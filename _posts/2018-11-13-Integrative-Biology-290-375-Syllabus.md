@@ -44,6 +44,9 @@ A possible optional “final” could be a weekend field trip to collect plants 
 **Resources**
 
 1. [FernBase](https://www.fernbase.org/)
-2. [CalFlora](https://www.calflora.org/)
-3. [Jepson eFlora](http://ucjeps.berkeley.edu/eflora/)
+2. [Fern DNA Duke Database](https://fernlab.biology.duke.edu/)
+3. [CalFlora](https://www.calflora.org/)
+4. [Jepson eFlora](http://ucjeps.berkeley.edu/eflora/)
+5. [Flora of North America](http://beta.floranorthamerica.org/wiki/Main_Page)
+
 
