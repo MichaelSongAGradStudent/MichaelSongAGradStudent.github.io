@@ -4,7 +4,7 @@ title: "Statement of Teaching Philosophy"
 date: 2019-03-02
 ---
 
-      Engaged pedagogy does not seek simply to empower students. Any classroom that employs a holistic model of learning will also be a place where teachers grow, and are empowered by the process. - bell hooks
+>> Engaged pedagogy does not seek simply to empower students. Any classroom that employs a holistic model of learning will also be a place where teachers grow, and are empowered by the process. - bell hooks
 
 It is not lost on students the imperial nature of both the classroom (what they are being taught) and the university (how this thought is made meaningful in society). If students are thinking (and they are!) that the education they receive is meaningless other than as means to progress through society, then they will both not learn the material well and also necessarily resign themselves to being complicit in a system which at best disempowers them on their journey to knowledge and at worst actively oppresses them and their communities.
 
