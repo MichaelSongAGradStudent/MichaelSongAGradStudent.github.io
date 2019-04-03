@@ -33,13 +33,14 @@ A possible optional “final” could be a weekend field trip to collect plants 
 |Feb20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)|[Forrest's surprise](https://drive.google.com/file/d/1uTVxYW9MbNkoo4wDrLSO8atfWkCAL29S/view)|
 |Feb27                  |Isaac      |*Perityle*    ||
 |Mar06                  |Joyce      |*Paullinia* and Sapindaceae ||
-|Mar13                  |Kayla      |*Arctostaphylos* ||
+|Mar13                  |Kayla      |*Arctostaphylos* |[Crash course in manzanitas!](https://drive.google.com/file/d/1WH9kq4kbtO-eRpjL_ZKTmLmGIi8tMYZU/view?usp=sharing)|
 |Mar20                  |Carrie     |*Bomarea et al.*  ||
 |Apr03                  |Jaemin     |Extinct Gymnosperm (maybe Czekanowskiales)  ||
-|Apr10                  |Bruce      |||
+|Apr10                  |Canceled      |||
 |Apr17                  |Ixchel     |Liverwort  ||
 |Apr24                  |Abby       |*Astrolepis*   ||
 |May01                  |Caleb and Jenna       |Some Moss    ||
+|May08                  |Bruce      |||
 
 **Resources**
 
