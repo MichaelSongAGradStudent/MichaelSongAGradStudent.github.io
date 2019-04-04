@@ -31,8 +31,8 @@ A possible optional “final” could be a weekend field trip to collect plants 
 |Feb06                  |Jonathan   |*Polystichum* |[Untangling evolutionary relationships among Polystichum californicum and its progenitors](https://docs.google.com/presentation/d/1bTilFG4caJlx2sunK-v1oTrpLmuTD6FgOeQcRqagRGc/edit?usp=sharing)|
 |Feb13                  |Keir       |*Pentagramma* |[Uncovering Cryptic Hybridization and Genome Duplication within the Goldback and Silverback ferns](https://docs.google.com/presentation/d/1UA1i5u9KS6c7JKS1n9bp09ViiL32-mRuzUHgi1940-4/edit?usp=sharing)|
 |Feb20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)|[Forrest's surprise](https://drive.google.com/file/d/1uTVxYW9MbNkoo4wDrLSO8atfWkCAL29S/view)|
-|Feb27                  |Isaac      |*Perityle*    |[Collecting in Baja!]()|
-|Mar06                  |Joyce      |*Paullinia* and Sapindaceae |[Wood Anatomy of Lianas!]()|
+|Feb27                  |Isaac      |*Perityle*    |Collecting in Baja!|
+|Mar06                  |Joyce      |*Paullinia* and Sapindaceae |Wood Anatomy of Lianas!|
 |Mar13                  |Kayla      |*Arctostaphylos* |[Crash course in manzanitas!](https://drive.google.com/file/d/1WH9kq4kbtO-eRpjL_ZKTmLmGIi8tMYZU/view?usp=sharing)|
 |Mar20                  |Canceled   |||
 |Apr03                  |Jaemin     |Extinct Gymnosperms |[Czekanowskiales and more!](https://drive.google.com/file/d/198bmAGEWuGSuLUJrhm3p6FS5kZKd23m-/view?usp=sharing)|
