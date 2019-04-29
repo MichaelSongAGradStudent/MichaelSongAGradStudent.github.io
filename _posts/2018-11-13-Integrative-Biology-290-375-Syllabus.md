@@ -32,15 +32,15 @@ A possible optional “final” could be a weekend field trip to collect plants 
 |Feb13                  |Keir       |*Pentagramma* |[Uncovering Cryptic Hybridization and Genome Duplication within the Goldback and Silverback ferns](https://docs.google.com/presentation/d/1UA1i5u9KS6c7JKS1n9bp09ViiL32-mRuzUHgi1940-4/edit?usp=sharing)|
 |Feb20                  |Forrest    |*Isoetes* or *Darlingtonia* (or both...)|[Forrest's surprise](https://drive.google.com/file/d/1uTVxYW9MbNkoo4wDrLSO8atfWkCAL29S/view)|
 |Feb27                  |Isaac      |*Perityle*    |Collecting in Baja!|
-|Mar06                  |Joyce      |*Paullinia* and Sapindaceae |Wood Anatomy of Lianas!|
+|Mar06                  |Joyce      |*Paullinia* and Sapindaceae |Wood Anatomy of Lianas! (ppt filesize too big, email if interested!)|
 |Mar13                  |Kayla      |*Arctostaphylos* |[Crash course in manzanitas!](https://drive.google.com/file/d/1WH9kq4kbtO-eRpjL_ZKTmLmGIi8tMYZU/view?usp=sharing)|
-|Mar20                  |Canceled   |||
+|Mar20                  |Canceled   ||Solidarity with AFSCME Local 3299!|
 |Apr03                  |Jaemin     |Extinct Gymnosperms |[Czekanowskiales and more!](https://drive.google.com/file/d/198bmAGEWuGSuLUJrhm3p6FS5kZKd23m-/view?usp=sharing)|
-|Apr10                  |Canceled      |||
-|Apr17                  |Ixchel     |Liverwort  ||
-|Apr24                  |Abby       |*Astrolepis*   ||
-|May01                  |Caleb and Jenna       |Some Moss    ||
-|May08                  |Bruce      |||
+|Apr10                  |Canceled      ||Solidarity with UPTE CWA 9119!|
+|Apr17                  |Ixchel     |Liverworts|[the "coolest" plants]()|
+|Apr24                  |Abby       |*Astrolepis*   |[AND ROCKS!](https://docs.google.com/presentation/d/1UU6EvDcMmOLP7FregXC2uflXhgbywJTbV4Bsw2diZio/edit?usp=sharing)|
+|May01                  |Caleb and Jenna       |Moss    ||
+|May08                  |Bruce      |Asters||
 
 **Resources**
 
