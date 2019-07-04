@@ -4,12 +4,7 @@ title: About me
 ---
 ## Research Interests
 
-I study the evolution of ferns at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. I am interested in the role polyploidy has had in the diversification of plants. In particular, I am fascinated by a minute floating heterosporous fern [*Azolla*](https://btiscience.org/explore-bti/news/post/fern-tastic-genomes-in-nature-plants/) and in the evolution of the [floating ferns](https://en.wikipedia.org/wiki/Salviniales) more generally.
-Some dissertation projects currently underway:
-
-1. Total evidence dating under the fossilized-brtih-death process in Salviniales, implemented in [RevBayes](https://revbayes.github.io/).
-2. Exploring hidden states in various State-dependent Speciation and Extinction (SSE) models.
-3. 16S Microbiome analyses of *Azolla* leaf pockets across the genus.
+I study the evolution of ferns at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. For much of my work, I have been interested in the role of polyploidy in plant evolution and in the dynamics of mobile elements. Currently, however, I am fascinated by a minute floating heterosporous fern [*Azolla*](https://btiscience.org/explore-bti/news/post/fern-tastic-genomes-in-nature-plants/) and its associated microbiota, which fixes nitrogen among other things. My dissertation seeks to understand on what level does natural selection act for such organinisms that are considered holobionts.
 
 When I am not working on my dissertation, I sometimes work on projects with these long-time research collaborators:
 - [Jeremy Coate](https://sites.google.com/site/coatejeremy/), Visiting Assistant Professor of Biology, Reed College, on polyploidy related matters.
@@ -17,8 +12,6 @@ When I am not working on my dissertation, I sometimes work on projects with thes
 
 I am also broadly interested in plants and their uses as food, symbols, metaphors, and medicine.
 I have most recently presented my work on plant metaphors at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
-
-Not necessarily plant related, but I have been taking Ancient Greek for a couple years now and am also learning Russian. I am fascinated by translation as much as I am afraid of it. So perhaps this terror will lead to new creative and scholastic endeavors, but as of now it is definitely at least a "research interest."
 
 I am a part of the Botany Suite, a small working group of plant scientists at Cornell University and UC Berkeley. Members include [Jesus Martinez-Gomez](https://jesusthebotanist.github.io/), [Carrie Tribble](https://carrietribble.weebly.com/), [Betsy Castro](http://betsabecastro.com/), and [Isaac Lichter‐Marck](https://www.researchgate.net/profile/Isaac_Lichter-Marck). We are also a [band](https://botanysuite.bandcamp.com/releases).
 
