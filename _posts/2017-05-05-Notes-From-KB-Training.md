@@ -5,7 +5,7 @@ date: 2017-05-05
 ---
 On March 4-5th 2017 UAW 2865 had an organizing training with KB Brower of the Pennsylvania Association of Staff Nurses and Allied Professionals (PASNAP) in order to prepare for the upcoming contract negotiation with UC. Below are notes from the training!
 
-Update September 18, 2018. Despite a wellspring of resistance from the rank-and-file, <a href="http://www.dailycal.org/2018/09/14/recent-uc-student-workers-contract-is-regressive/">UAW 2865 leadership betrayed the democratic principles of our union</a> and settled for a consessionary contract, which goes to show that training is not enough, we need to be <a href="https://lavozlit.com/statement-on-the-uaw-2865-contract-settlement/">building a democratic and fighting union</a> not just one with high memebership.
+We need to be <a href="https://lavozlit.com/statement-on-the-uaw-2865-contract-settlement/">building a democratic and fighting union</a> not just one with high memebership, but high membership is an important first step.
 
 
 
@@ -141,7 +141,6 @@ Ideally our OCs are made up of the real leaders representing each and every depa
 ### What are different types of issues
 * Isolated Issues
     + Issues felt by a minority of individuals
-    + e.g. dependent health care
     
 * Widely-felt Issues
     + Issues experienced by a large number of workers
@@ -151,7 +150,7 @@ Ideally our OCs are made up of the real leaders representing each and every depa
     + Issues that affects minority groups that could be isolated issues or widely felt issues
     + e.g. sexual discrimination, international student discrimination
 
-We want to focus our public issues on widely-felt issues and also social-justice issues that are widely felt.
+We want to focus our public issues on widely-felt issues and also social-justice issues that are widely felt. But sometimes Isolated Issues like dependent health care are actually widely-felt issues when you think that the fact that the boss can take away a right randomly at will is something no worker should tolerate.
 
 ### What are tools the union has
 * The grievance process
