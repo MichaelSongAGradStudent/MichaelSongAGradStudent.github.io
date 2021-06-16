@@ -6,7 +6,7 @@ title: About me
 
 I study the ecology and evolution of plants at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. For much of my work, I have been interested in the role of polyploidy in plant evolution and in the dynamics of mobile elements. I think that it is important to consider that the evolutionary consequences of polyploidy depends on the altered interactions of polyploid individuals and their environment and, therefore, the evolution of polyploids depends first on their ecology. For my dissertation, I will be using synthetic neo-autotetraploid lines of Arabidopsis to elucidate the effects of polyploidy on the community of commensal microorganisms (the microbiome) that are associated with plants, and then to determine whether these effects impact the plants’ responses to pathogens and predators.
 
-When I am not working on my dissertation, I sometimes work on projects with these long-time research collaborators:
+I sometimes work on projects with these long-time research collaborators:
 - [Jeremy Coate](https://sites.google.com/site/coatejeremy/), Visiting Assistant Professor of Biology, Reed College, on polyploidy related matters.
 - [Sarah Schaack](https://sites.google.com/site/schaackwork/), Assistant Professor of Biology, Reed College, on transposable element fun. 
 - [Jesus Martinez-Gomez](https://jesusthebotanist.github.io/) and [Carrie Tribble](https://carrietribble.weebly.com/) on assessing different methods for estimating branch specific shifts in diversification rates. 
