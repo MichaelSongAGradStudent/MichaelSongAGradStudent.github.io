@@ -3,7 +3,7 @@ var date2 = new Date()
 var Difference_In_Time = date2.getTime() - date1.getTime();
 var Difference_In_Days = Difference_In_Time / (1000 * 3600 * 24);
 function update_users_count() {
-    $('#users1 i').animate({
+    $('#users2 i').animate({
         counter: Difference_In_Days * 300000000 /40000000
     }, {
         duration: 6000,
