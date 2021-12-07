@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 ## New Job
-I am currently an adjunct professor at Diablo Valley College! I will be teaching Biology 131: Principles of Ecology, Evolution and Orgnamismal Biology Spring 2022. 
+I am currently an adjunct professor at Diablo Valley College and Cal State East Bay! I will be teaching Biology 131: Principles of Ecology, Evolution and Orgnamismal Biology and Biology 140A Principles of Cell and Molecular Biology this Spring 2022.
 
 ## Research Interests
 
