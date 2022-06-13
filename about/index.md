@@ -3,11 +3,11 @@ layout: default
 title: About me
 ---
 ## New Job
-I am currently an adjunct professor at Diablo Valley College and Cal State East Bay! I will be teaching Biology 131: Principles of Ecology, Evolution and Organismal Biology and Biology 140A Principles of Cell and Molecular Biology this Spring 2022.
+I have just been hired as an Assistant Professor of Biology at Skyline College! See you in the Fall!
 
 ## Research Interests
 
-I am a recently minted doctor! I studied the ecology and evolution of plants at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. For much of my work, I have been interested in the role of polyploidy in plant evolution and in the dynamics of mobile elements. For my dissertation, I used synthetic neo-autotetraploid lines of Arabidopsis to elucidate the effects of polyploidy on the community of commensal microorganisms (the microbiome) that are associated with plants, and then determined whether these effects impact the plants’ responses to pathogens and predators.
+I am a recently minted doctor. I studied the ecology and evolution of plants at UC Berkeley in the [Rothfels Lab](https://rothfelslab.berkeley.edu/) in Integrative Biology. For much of my work, I have been interested in the role of polyploidy in plant evolution and in the dynamics of mobile elements. For my dissertation, I used synthetic neo-autotetraploid lines of Arabidopsis to elucidate the effects of polyploidy on the community of commensal microorganisms (the microbiome) that are associated with plants, and then determined whether these effects impact the plants’ responses to pathogens and predators.
 
 I sometimes work on projects with these long-time research collaborators:
 - [Jeremy Coate](https://sites.google.com/site/coatejeremy/), Visiting Assistant Professor of Biology, Reed College, on polyploidy related matters.
