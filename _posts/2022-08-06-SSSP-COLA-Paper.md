@@ -5,8 +5,7 @@ date: 2022-08-06
 ---
 I was recently asked to be on a roundtable at SSSP called "Organizing Academic Labor in the Post Pandemic University" organized by Emily Yen, with Shannon Ikebe and Emily Fox. We all were leaders in UAW 2865 and part of the COLA Movement at UC. Here is my paper:
 
-![](/images/983182DD-3836-4307-9590-B7510C58618C.JPG)
-
+<img src="/images/983182DD-3836-4307-9590-B7510C58618C.JPG" alt="Comrades in the LBC" style="width:700px">
 
 ## Problems, Pitfalls, and Potenial of Organizing During the Covid Pandemic
 My name is Mick Song and I will be talking today about my time as a member of UAW 2865 the university of California student workers union that represents 17,000 workers across the nine teaching campuses of UC. Currently, I am an assistant professor at Skyline College in San Bruno California and a rank and file member of AFT 1493 the San Mateo Community College Federation of Teachers.
