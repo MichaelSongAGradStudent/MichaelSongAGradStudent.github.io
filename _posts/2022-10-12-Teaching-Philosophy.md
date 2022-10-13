@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Statement of Teaching Philosophy"
-date: 2019-03-02
+date: 2022-10-12
 ---
 
 ## Statement of Teaching Philosophy
