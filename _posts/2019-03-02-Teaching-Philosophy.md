@@ -5,9 +5,6 @@ date: 2019-03-02
 ---
 
 ## Statement of Teaching Philosophy
-Michael Song
-
-Statement of Teaching Philosophy
 
 Michael Song
 
