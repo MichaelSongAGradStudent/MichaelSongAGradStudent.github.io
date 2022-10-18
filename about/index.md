@@ -18,11 +18,14 @@ I also work on projects with these long-time research collaborators:
 - Elijah Mehlferber, Post Doc at Georgia Tech, and the [Koskella Lab](https://naturesmicrocosm.com) on all things SynCom! 
 - [Jeremy Coate](https://sites.google.com/site/coatejeremy/), Visiting Assistant Professor of Biology, Reed College, on polyploidy related matters.
 - [Sarah Schaack](https://sites.google.com/site/schaackwork/), Assistant Professor of Biology, Reed College, on transposable elements. 
-- [Jesus Martinez-Gomez](https://jesusthebotanist.github.io/) and [Carrie Tribble](https://carrietribble.weebly.com/) on assessing different methods for estimating branch specific shifts in diversification rates. 
+- [Jesus Martinez-Gomez](https://jesusthebotanist.github.io/) and [Carrie Tribble](https://carrietribble.weebly.com/) on assessing different methods for estimating branch specific shifts in diversification rates.
+- But also maybe you! Reach out if you want to collab! 
 
-I am also broadly interested in plants and their uses as food, symbols, metaphors, and medicine.
-I presented some thoughts on plant metaphors at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
-I am also an amateur classicist and slavicist! At [AATSEEL 2020](https://www.aatseel.org/program), I gave a paper at a round table about the 19th century Russian metaphysical poets and contemporary American female country music. How fun!
+I am broadly interested in plants and their uses as food, symbols, metaphors, and medicine.
+I presented some [thoughts on plant knowledges](https://michaelsongagradstudent.github.io/blog/2018/11/01/Draft-Of-Plant-Knowledges-Talk) at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
+I am also an amateur classicist and slavicist! At [AATSEEL 2020](https://www.aatseel.org/program), I gave a [paper](https://michaelsongagradstudent.github.io/blog/2020/02/11/Two-metaphysical-traditions) at a round table about the 19th century Russian metaphysical poets and contemporary American female country music.
+I am also an amateur sociologist and labor historian and have recently presented on [labor organizing during the pandemic](https://michaelsongagradstudent.github.io/blog/2022/08/06/SSSP-COLA-Paper) at The Society for the Study of Social Problems 2022 with comrades from the [UC COLA Movement](https://payusmoreucsc.com).
+I might be going to Evolution 2023 next year, but I'll have to see about that.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8wsjlsghPH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Holiday embedded video of me and my colleagues and comrades who fight the good fight, because our working conditions are our students' learning conditions.*
