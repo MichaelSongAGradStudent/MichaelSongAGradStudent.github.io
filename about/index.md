@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 ## New Job
-I have just been hired as an Assistant Professor of Biology at Skyline College! See you in the Fall!
+I am currently Assistant Professor of Biology at Skyline College! I'll be teaching BIOL 101 (Our Biological World) and BIOL 215 (Organismal Biology) in the Spring. 
 
 ## Research Interests
 <img src="/images/azollaprelim.jpg" alt="CCPG Azolla Project" style="width:700px">
