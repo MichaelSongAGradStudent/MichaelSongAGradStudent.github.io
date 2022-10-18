@@ -8,13 +8,16 @@ I have just been hired as an Assistant Professor of Biology at Skyline College! 
 ## Research Interests
 <img src="/images/AzollaPrelimData.jpg" alt="CCPG Azolla Project" style="width:700px">
 
-I studied the ecology and evolution of plants at UC Berkeley in the [Rothfels Lab](https://rothfelslab.org) (now at Utah State) in Integrative Biology. For much of my work, I have been interested in the role of polyploidy in plant evolution and in the dynamics of mobile elements. For my dissertation, I used synthetic neo-autotetraploid lines of Arabidopsis to elucidate the effects of polyploidy on the community of commensal microorganisms (the microbiome) that are associated with plants, and then determined whether these effects impact the plants’ responses to pathogens. It does! Find it now out in [Current Biology](https://www.sciencedirect.com/science/article/abs/pii/S0960982222007746)!
+I study the ecology and evolution of plants. At UC Berkeley, I completed my PhD as a member of the [Rothfels Lab](https://rothfelslab.org) (now at Utah State) in Integrative Biology. For much of my work, I have been interested in the role of polyploidy in plant evolution and in the dynamics of mobile elements. For my dissertation, I used synthetic neo-autotetraploid lines of Arabidopsis to elucidate the effects of polyploidy on the community of commensal microorganisms (the microbiome) that are associated with plants, and then determined whether these effects impact the plants’ responses to pathogens. It does! Find it now out in [Current Biology](https://www.sciencedirect.com/science/article/abs/pii/S0960982222007746)!
 
-One of my current projects (see above) involves researching the genomics of the Azolla symbiosis with the [California Conservation Genomics Project](https://www.ccgproject.org) (CCPG) led by the Rothfels Lab. Our preliminary data show an incredible amount of co-diversification in the group!
+One of my current projects (see above) involves researching the genomics of the Azolla symbiosis with the [California Conservation Genomics Project](https://www.ccgproject.org) (CCPG) led by the Rothfels Lab. Our preliminary data show an incredible amount of co-diversification in the group! Azolla look pretty much the same, but we found that there are maybe three or four "species" in California (see below). 
 
-I sometimes work on projects with these long-time research collaborators:
+<img src="images/azollamap.jpg" alt="Azolla map" style="width:700px">
+
+I also work on projects with these long-time research collaborators:
+- Elijah Mehlferber, Post Doc at Georgia Tech, and the [Koskella Lab](https://naturesmicrocosm.com) on all things SynCom! 
 - [Jeremy Coate](https://sites.google.com/site/coatejeremy/), Visiting Assistant Professor of Biology, Reed College, on polyploidy related matters.
-- [Sarah Schaack](https://sites.google.com/site/schaackwork/), Assistant Professor of Biology, Reed College, on transposable element fun. 
+- [Sarah Schaack](https://sites.google.com/site/schaackwork/), Assistant Professor of Biology, Reed College, on transposable elements. 
 - [Jesus Martinez-Gomez](https://jesusthebotanist.github.io/) and [Carrie Tribble](https://carrietribble.weebly.com/) on assessing different methods for estimating branch specific shifts in diversification rates. 
 
 I am also broadly interested in plants and their uses as food, symbols, metaphors, and medicine.
