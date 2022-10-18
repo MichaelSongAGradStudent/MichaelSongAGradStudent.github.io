@@ -12,7 +12,7 @@ I study the ecology and evolution of plants. At UC Berkeley, I completed my PhD 
 
 One of my current projects (see above) involves researching the genomics of the Azolla symbiosis with the [California Conservation Genomics Project](https://www.ccgproject.org) (CCPG) led by the Rothfels Lab. Our preliminary data show an incredible amount of co-diversification in the group! Azolla look pretty much the same, but we found that there are maybe three or four "species" in California (see below). 
 
-<img src="images/azollamap.jpg" alt="Azolla map" style="width:700px">
+<img src="/images/azollamap.jpg" alt="Azolla map" style="width:700px">
 
 I also work on projects with these long-time research collaborators:
 - Elijah Mehlferber, Post Doc at Georgia Tech, and the [Koskella Lab](https://naturesmicrocosm.com) on all things SynCom! 
