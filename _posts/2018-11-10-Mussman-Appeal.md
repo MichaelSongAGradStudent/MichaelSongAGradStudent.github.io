@@ -99,25 +99,25 @@ Member, UAW 2865 (Department of Comparative Literature, Berkeley)
 4125 Dwinelle Hall
 mary.mussman@berkeley.edu
 
-Spencer Adams (Berkeley) 
-Alex Brostoff (Berkeley)
-Marlena Gittleman (Berkeley)
-Connor Gorman (Davis)
-Veronica Hamilton (Santa Cruz) 
-Shannon Ikebe (Berkeley) 
-Dinah Lensing-Sharp (Berkeley)
-Isaac Marck (Berkeley)
-Ana McTaggart (Santa Cruz)
-Marcelo Mendez (Santa Cruz)
-Tara Phillips (Berkeley)
-Chloe Piazza (Berkeley)
-Sonya Rao (Los Angeles)
-Michael Rawls (Davis)
-Laila Riazi (Berkeley)
-Betty Rosen (Berkeley)
-Michael Song (Berkeley)
-Abigail Walsh (Santa Cruz)
-Lawrence Wang (Berkeley)
+Spencer Adams (Berkeley), 
+Alex Brostoff (Berkeley),
+Marlena Gittleman (Berkeley),
+Connor Gorman (Davis),
+Veronica Hamilton (Santa Cruz), 
+Shannon Ikebe (Berkeley),
+Dinah Lensing-Sharp (Berkeley),
+Isaac Marck (Berkeley),
+Ana McTaggart (Santa Cruz),
+Marcelo Mendez (Santa Cruz),
+Tara Phillips (Berkeley),
+Chloe Piazza (Berkeley),
+Sonya Rao (Los Angeles),
+Michael Rawls (Davis),
+Laila Riazi (Berkeley),
+Betty Rosen (Berkeley),
+Michael Song (Berkeley),
+Abigail Walsh (Santa Cruz),
+Lawrence Wang (Berkeley),
 and 28 other Local appellants. 
 
 ## 2022 Edit: Text of Appeal Against the Executive Board’s Determination on the Mussman Appeal
@@ -158,20 +158,20 @@ The erroneously ratified contract hardly meets the needs of our members. Offerin
 
 Signed, 
 
-Mary Mussman, Lead Appellant
-Marcelo Mendez, Contact Liaison*
-Kevan Aguilar
-Kyle Galindez
-Connor Gorman
-Veronica Hamilton
-Shannon Ikebe
-Sarah Mason
-Ana McTaggart
-Tara Phillips
-Kit Pribble
-Michael Rawls
-Mick Song
-Duane Wright
-Blu Buchanan
-Jack Davies
+Mary Mussman, Lead Appellant,
+Marcelo Mendez, Contact Liaison*,
+Kevan Aguilar,
+Kyle Galindez,
+Connor Gorman,
+Veronica Hamilton,
+Shannon Ikebe,
+Sarah Mason,
+Ana McTaggart,
+Tara Phillips,
+Kit Pribble,
+Michael Rawls,
+Mick Song,
+Duane Wright,
+Blu Buchanan,
+Jack Davies,
 Adam Jadhav
