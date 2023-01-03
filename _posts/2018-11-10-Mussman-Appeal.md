@@ -118,7 +118,7 @@ Betty Rosen (Berkeley)
 Michael Song (Berkeley)
 Abigail Walsh (Santa Cruz)
 Lawrence Wang (Berkeley)
-
+and 28 other Local appellants. 
 
 ## 2022 Edit: Text of Appeal Against the Executive Board’s Determination on the Mussman Appeal
 
