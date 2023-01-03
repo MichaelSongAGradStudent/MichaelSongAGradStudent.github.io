@@ -29,12 +29,12 @@ We appeal the procedural legitimacy of the ratification vote which happened thro
 
 CHARGES
 
-1. The initiation of the ratification vote violated the Bargaining Team’s rules and procedures, and thus constituted an improper ratification procedure. 
+### 1. The initiation of the ratification vote violated the Bargaining Team’s rules and procedures, and thus constituted an improper ratification procedure. 
 
 We appeal the initiation of the contract ratification vote because the Bargaining Team failed to meet the number of votes required to send out the ratification vote to members. According to the  “Community Agreements For Bargaining Team Internal Dynamics and Decisionmaking” document signed by all Bargaining Team members, in order to “vot[e] on presenting a final contract to members for ratification” the Bargaining Team must have “a majority [of] 50%+1 votes (10 votes)”. The Bargaining Team did not reach a voting majority as the final count was eight in favor of ratification, seven opposed, and one abstaining, and hence did not meet the required 50%+1 majority. Therefore the Bargaining Team violated the “Community Agreements” in sending out the ratification vote to membership, thus preemptively invalidating the results of the subsequent ratification vote. Furthermore, the failure of the Bargaining Team to reach a majority, also invalidates any claim that union support of ratification, or a “yes” vote on ratification, constituted the union’s  “official position.” 
 
 
-2. The Executive Board, many of whom were actively campaigning for the ‘yes’ vote, also took over elections responsibilities following the resignation of EC officers, in direct violation of the bylaws. In particular, the Local Union leadership lacked the authorization to send the ratification vote email without the Election Committee's approval.
+### 2. The Executive Board, many of whom were actively campaigning for the ‘yes’ vote, also took over elections responsibilities following the resignation of EC officers, in direct violation of the bylaws. In particular, the Local Union leadership lacked the authorization to send the ratification vote email without the Election Committee's approval.
 
 The email titled “Vote Now: Contract Ratification,” containing a link to the personalized online ballot for the ratification vote, was sent to members on or around August 20, 2018. This email’s content was heavily biased in favor of the YES position, including a lengthy list of what we “won” in the Tentative Agreement along with speculated negative consequences of not voting for this position; the NO position was only briefly mentioned at the end of the email, and its arguments were not listed on the email itself but on a separate google document that was linked from the email. The NO side received decidedly unequal treatment in this email that the vast majority of voting members (who voted online) saw before casting a vote. (see Appendix A). 
 
@@ -43,7 +43,7 @@ This email was not approved by the Elections Committee, which is in explicit vio
 The Executive Board of the Local Union admitted, in its email to the Local Joint Council on September 14, 2018, that “Due to a large number of resignations on the Elections Committee,  this time, the eboard voted on the time/place/manner of the ratification vote and helped to identify individuals to staff the in-person polls”. The Executive Board’s claim that “while a ratification vote is not an election, the Elections Committee has traditionally facilitated this vote” in the same email is misleading because aforementioned bylaws clearly stipulate that a ratification vote, like all other Local Union elections, must be supervised by the Elections Committee. 
 
 
-3. Union leadership violated the democratic integrity of the election by directing paid staff to campaign for a “yes” vote.
+### 3. Union leadership violated the democratic integrity of the election by directing paid staff to campaign for a “yes” vote.
 
 Paid union organizers were assigned to campaign for the “yes” vote on the orders of some members of the union leadership. Staff contact members used their paid work hours to text and phone-bank members to convince them to vote “yes” on the contract ratification vote. The use of union membership resources to influence the results of this vote violates the democratic nature of the vote, and thus tainted a ratification vote according to the procedures set by the Local Union. 
 
@@ -52,12 +52,12 @@ The Executive Board, in its email to the Joint Council on September 13, 2018, ad
 Kavitha Iyengar, Northern Vice President, also admitted in an email to the Executive Board, Joint Council, and Anti-Oppression Committee, on August 23, 2018 that “members of the executive board had calls with staff to plan GOTV plans for the ratification vote and directed our field staff to tell members about the bargaining team's majority position, the official union position. We had directed staff resources toward getting out the vote for this ratification campaign through phone banking, text-banking, and walkthroughs... The raps included the message that voting yes is the majority position of the union since the majority of the bargaining team [sic] supported the tentative agreement.”
 
 
-4. The Executive Board interfered with operations of the NO campaign.
+### 4. The Executive Board interfered with operations of the NO campaign.
 
 While the official resources of the union were used to explicitly favor the YES side in the ratification vote, including through mass texts, the Executive Board issued a directive to prevent the NO campaign from using the same campaign strategy of mass texts. Kavitha Iyengar, Northern Vice President, admitted the interference in an email to the Executive Board, Joint Council, and Anti-Oppression Committee, on August 23, 2018, as she stated “Our directive about ‘no’ outreach was that it could not be presented as the official union position, and that it could not be sent out via mass texting technologies.” 
 
 
-5. The timing and duration of the vote did not allow union members sufficient opportunity to inform themselves about contract details. 
+### 5. The timing and duration of the vote did not allow union members sufficient opportunity to inform themselves about contract details. 
 
 The timing and duration of the vote unduly limited the extent to which union membership could inform themselves about the details of the contract proposal, and also foreshortened any efforts to consider alternatives to ratification—including, but not limited to, a strike.
 
@@ -74,7 +74,7 @@ We believe that a genuinely democratic vote would only have been possible while 
 UAW Constitution Article 19, Section 3 states that “After negotiations have been concluded with the employer, the proposed contract or supplement shall be submitted to the vote of the Local Union membership, or unit membership in the case of an Amalgamated Local Union, at a meeting called especially for such purpose, or through such other procedure, approved by the Regional Director, to encourage greater participation of members in voting on the proposed contract or supplement.” This ratification vote was conducted in a manner contrary to the UAW Constitution mandate for it to “encourage greater participation of members”, since, as stated above, it took place in ways that minimized the members’ possibility of participation. 
 
 
-6. Technical errors and a lack of transparency created obstacles for workers to participate in the vote.
+### 6. Technical errors and a lack of transparency created obstacles for workers to participate in the vote.
 
 We also would highlight both technical errors and a lack of transparency in putting forth the pre-ratification straw poll and the actual ratification vote. Both votes were sent in an email that large portions of the membership either failed to receive or received only in spam folders in their email. This means that some members may not have been aware that the ratification vote was happening. Moreover, the means to remedy this situation and receive a new ballot  was unclear to many members. Technical issues with how the straw poll was tethered to individual member emails created a further lack of clarity over whether individual member votes were really being counted in the vote itself. 
 
@@ -126,7 +126,7 @@ We the undersigned lodge an appeal against the UAW 2865 (hereafter “Local”) 
 
 We appeal the Executive Board’s determination on multiple grounds, including but not limited to the following;
  
-1.     The Executive Board makes false and/or misleading claims on the following points regarding actions by Kit Pribble and the Elections Committee.
+### 1. The Executive Board makes false and/or misleading claims on the following points regarding actions by Kit Pribble and the Elections Committee.
  
 a) Kit Pribble, the Local Elections Committee Chair until 5:32pm, August 20th, did not approve "the body of the email itself", which was written by Garrett Shishido Strain and Alli Carlisle. While Pribble did approve the "text of the ratification ballot", that only concerned the ballot itself and did not include the ballot email, contrary to the Board's claim. The ballot email with the extremely biased content was sent to members in the morning of August 20 without approval by Pribble, let alone by the Elections Committee, in violation of the Article 13, Section 1 of the Local Bylaws. It is the ballot email, not the ballot itself, which the Mussman Appeal contends as particularly egregious and pernicious. 
  
@@ -136,11 +136,17 @@ c) Pribble's approval of certain actions regarding the ratification vote does no
 
 The above facts regarding Pribble’s actions and those of the Elections Committee, misrepresented in the Board’s “findings”, invalidate its claim that “Neither the Executive Board nor the Bargaining Team violated Article 13, Section 1 of the Local Bylaws, nor did either body violate the spirit thereof.” The ratification vote in August 2018 occurred in clear and explicit violation of Article 13, Section 1 of the Local Bylaws, which explicitly states that “all Local Union elections, strike votes, and contract ratification votes shall be held under the supervision of a democratically elected election committee” (emphasis ours). Therefore, the contract ratification vote, and hence the contract itself, is null and void. 
 
-2. The Executive Board makes an unjustified claim regarding distribution of power and democracy in the union. The Board claims that the Bargaining Team members are “invested with the strength and the will of the union’s membership” and therefore “the Bargaining Team’s position to ratify constituted the union’s official position to recommend a ‘yes’ vote.” This claim has no basis in the Local Bylaws. While the Bylaws generally do not make explicit reference to what constitutes the union’s “official position”, it is explicit that the Bargaining Team must present “the final contract to the membership for ratification”. (Local Bylaws Article 9, Section 2) Furthermore, the Local Bylaws affirms that “the membership is the highest authority of this Local Union” (Article 5, Section 1). We reject the claim that, on an issue for which a membership vote is explicitly mandated in the Bylaws, any position taken before that vote constitutes the “official position” of the union. 
+### 2. The Executive Board makes an unjustified claim regarding distribution of power and democracy in the union.
 
-3. The Executive Board claims that the use of paid staff time to campaign for a YES vote in a contract ratification vote is “consistent with the union’s democratic principles”. This claim has no basis in the Local Bylaws; we strongly reject the claim to justify use of staff resources to promote a particular position in a contentious membership vote, which drastically and systematically biases its outcome, in the name of the Local’s “democratic principles.” 
+The Board claims that the Bargaining Team members are “invested with the strength and the will of the union’s membership” and therefore “the Bargaining Team’s position to ratify constituted the union’s official position to recommend a ‘yes’ vote.” This claim has no basis in the Local Bylaws. While the Bylaws generally do not make explicit reference to what constitutes the union’s “official position”, it is explicit that the Bargaining Team must present “the final contract to the membership for ratification”. (Local Bylaws Article 9, Section 2) Furthermore, the Local Bylaws affirms that “the membership is the highest authority of this Local Union” (Article 5, Section 1). We reject the claim that, on an issue for which a membership vote is explicitly mandated in the Bylaws, any position taken before that vote constitutes the “official position” of the union. 
 
-4. The Executive Board’s “Findings” fail to address the substantive point that it is fundamentally anti-democratic to hold a ratification vote during the summer; as the original Mussman Appeal stated, “for all but two UC campuses, both August votes took place a full month prior to school being back in session. The timing of the vote particularly infringed upon members on campuses on the quarter system, whose fall quarter begins in late September. Nevertheless, even for the two UC campuses that begin the fall semester in August, the initial straw poll and the ratification vote took place only as graduate student workers were returning to campus, and over the course of the hectic lead-up to the coming semester.” The comparatively high turnout in the ratification vote reflects the extremely contentious character of the issue, and does not prove the absence of significant obstacles against participation. 
+### 3. The Executive Board claims that the use of paid staff time to campaign for a YES vote in a contract ratification vote is “consistent with the union’s democratic principles”.
+
+This claim has no basis in the Local Bylaws; we strongly reject the claim to justify use of staff resources to promote a particular position in a contentious membership vote, which drastically and systematically biases its outcome, in the name of the Local’s “democratic principles.” 
+
+### 4. The Executive Board’s “Findings” fail to address the substantive point that it is fundamentally anti-democratic to hold a ratification vote during the summer; as the original Mussman Appeal stated, “for all but two UC campuses, both August votes took place a full month prior to school being back in session.
+
+The timing of the vote particularly infringed upon members on campuses on the quarter system, whose fall quarter begins in late September. Nevertheless, even for the two UC campuses that begin the fall semester in August, the initial straw poll and the ratification vote took place only as graduate student workers were returning to campus, and over the course of the hectic lead-up to the coming semester.” The comparatively high turnout in the ratification vote reflects the extremely contentious character of the issue, and does not prove the absence of significant obstacles against participation. 
 
 Furthermore, our claim concerns the possibility of a substantive deliberation regarding contract ratification, not simply that of voting; as the Mussman Appeal stated; “during this time, an extensive portion of the broader union membership was not available to deliberate with peers over the details of the contract. Further, there was no official union meeting to discuss ratification on any of the nine campuses.” The Board fails to address this point. Voting does not equal participation. 
 
@@ -169,6 +175,3 @@ Duane Wright
 Blu Buchanan
 Jack Davies
 Adam Jadhav
-
-
-
