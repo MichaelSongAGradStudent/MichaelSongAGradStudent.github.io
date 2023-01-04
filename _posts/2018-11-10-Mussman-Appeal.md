@@ -10,7 +10,7 @@ It is very heartening to see that even in the midst of a reactionary take-over o
 Before the meeting students gathered to sing union songs such as "Hey, Hey, Daloy Politsey (Hey Hey Down with the Police)," before appealing the undemocratic and manipulative practices taken by the union leadership to settle a 4 year concessionary contract in summer 2018, foreclosing the possibility of not only a raise but striking for demands like demilitarization.
 
 ### 2022 addendum: 
-Despite incredible amounts of money spent 2865 Admin caucus led campaigns can never break past 62% yes vote. No votes were 40% in 2010, 42% in 2018 and 38% today (2014 was led by the AWDU reform caucus).
+Despite incredible amounts of money spent the UAW 2865 Admin caucus led campaigns can never break past 62% yes vote. No votes were 40% in 2010, 42% in 2018 and 38% today (2014 was led by the AWDU reform caucus and the contract ratification vote was over 98% yes).
 
 Additionally, these same undemocratic election practices have been going on since at least the 2010 admin caucus led contract campaign and have been protested [then](https://slugorganizingcommittee.wordpress.com/2011/01/31/uaw-2865-ratification-vote-protest), here, and also now in [2022](https://docs.google.com/document/d/18PUM6iVfmHLfrPgrPsKVhP4C3RBsbvVoZyzRbmttOSE/edit). 
 
