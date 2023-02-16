@@ -6,6 +6,13 @@
 		function handleClick() {
 			var audio = new Audio('/lyra/LyraSound1.mp3');
 			audio.play();
+			alert("Brrrr!");
+		}
+	</script>
+	<script>
+		function handleClick2() {
+			var audio = new Audio('/lyra/LyraSound2.mp3');
+			audio.play();
 			alert("Meow!");
 		}
 	</script>
@@ -13,6 +20,9 @@
 <body>
 	<button onclick="handleClick()">
 		<img src="/lyra/Lyra1.png" alt="Lyra" style="max-height:50%; max-width:50%;">
+	</button>
+	<button onclick="handleClick2()">
+		<img src="/lyra/Lyra2.png" alt="Lyra" style="max-height:50%; max-width:50%;">
 	</button>
 </body>
 </html>
