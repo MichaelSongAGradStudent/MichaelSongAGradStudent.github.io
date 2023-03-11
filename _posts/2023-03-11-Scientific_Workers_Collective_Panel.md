@@ -7,7 +7,7 @@ date: 2023-03-11
 
 I participated as a panelist for an event organized by the [Scientific Workers Collective Panel](https://linktr.ee/sciworkerscollective). It is so great to see so many scientists organizing new unions across the country! 
 
-
+<img src="/images/SWC.png" alt="Comrades at the SWC" style="width:500px">
 
 ## Draft of talk
 
