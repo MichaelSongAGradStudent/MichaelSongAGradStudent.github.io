@@ -10,7 +10,7 @@ I study the ecology and evolution of plants. At UC Berkeley, I completed my PhD 
 
 One of my current projects involves researching the genomics of the Azolla symbiosis with the [California Conservation Genomics Project](https://www.ccgproject.org) (CCPG) led by the Rothfels Lab. Our preliminary data show a varying degree of co-diversification and identiy by distance across the microbial inhabitants of the leaf pocket! Azolla look pretty much the same, but we found that there are maybe three or four "species" in California (see below). 
 
-<img src="/images/" alt="Azolla map" style="width:700px">
+<img src="/images/codiversification.jpg" alt="Azolla poster" style="width:700px">
 
 I also work on projects with these long-time research collaborators:
 - Elijah Mehlferber, Post Doc at Georgia Tech, and the [Koskella Lab](https://naturesmicrocosm.com) on all things SynCom! 
@@ -23,7 +23,6 @@ I am broadly interested in plants and their uses as food, symbols, metaphors, an
 I presented some [thoughts on plant knowledges](https://michaelsongagradstudent.github.io/blog/2018/11/01/Draft-Of-Plant-Knowledges-Talk) at the 2018 UC Berkeley Comparative Literature Conference [*Future (Im)Perfect*](https://futureimperfectconf.wordpress.com/).
 I am also an amateur classicist and slavicist! At [AATSEEL 2020](https://www.aatseel.org/program), I gave a [paper](https://michaelsongagradstudent.github.io/blog/2020/02/11/Two-metaphysical-traditions) at a round table about the 19th century Russian metaphysical poets and contemporary American female country music.
 I am also an amateur sociologist and labor historian and have recently presented on [labor organizing during the pandemic](https://michaelsongagradstudent.github.io/blog/2022/08/06/SSSP-COLA-Paper) at The Society for the Study of Social Problems 2022 with comrades from the [UC COLA Movement](https://payusmoreucsc.com).
-I might be going to Evolution 2023 next year, but I'll have to see about that.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8wsjlsghPH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *Holiday embedded video of me and my colleagues and comrades who fight the good fight, because our working conditions are our students' learning conditions.*
