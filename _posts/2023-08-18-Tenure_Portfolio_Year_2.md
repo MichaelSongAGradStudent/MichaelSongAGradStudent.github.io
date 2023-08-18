@@ -37,7 +37,7 @@ Finally, the précis assignment and iNaturalist project assignment demonstrate m
 
 ## Professional Development activities:
 
-This summer I attended the 3-day [SEPAL](https://www.sfsusepal.org/courses/) Scientific Teaching Institute workshop.  
+This summer I attended the 3-day [SEPAL](https://www.sfsusepal.org/courses/) Scientific Teaching Institute workshop: S-SMART Summer STEM Faculty Professional Development.  
 
 I also attended the [National Conference on Race and Ethnicity in Higher Education](https://ncore.ou.edu) as well as the [Evolution 2023 Conference](https://www.evolutionmeetings.org) as a presenter. 
 
@@ -49,7 +49,9 @@ I have also applied for a ZTC grant to make BIOL 101 a zero textbook cost course
 
 ## Professional Service:
 
-I am currently serving on Academic Sentate at a voting member, the STEM Division Scholarship Committee, and on an adjunct professor Evaluation Committee.
+I am currently serving on Academic Sentate at a voting member, the STEM Division Scholarship Committee, and on an adjunct professor Evaluation Committee. 7 Points. 
+
+I also led an Expanding Your Horizons Workshop, led an sctivity during Skyline Earth Fest, was a speaker at the uSOAR conference, mentored an intern frmo the Energize Colleges Program at Skyline College, mentored a student as a part of IMMERSE in STEM at Skyline, and am a participant in the Online SLOAC Academy. 
 
 ## Self Assessment
 
