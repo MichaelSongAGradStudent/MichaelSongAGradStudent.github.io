@@ -37,7 +37,7 @@ Finally, the précis assignment and iNaturalist project assignment demonstrate m
 
 ## Professional Development activities:
 
-This summer I attended the 3-day [SEPAL](https://www.sfsusepal.org/courses/) Scientific Teaching Institute workshop: S-SMART Summer STEM Faculty Professional Development.  
+This summer I attended the 3-day [SEPAL](https://www.sfsusepal.org/courses/) Scientific Teaching Institute Professional Development workshop: Strengthening Student Motivation and Resilience through Research.  
 
 I also attended the [National Conference on Race and Ethnicity in Higher Education](https://ncore.ou.edu) as well as the [Evolution 2023 Conference](https://www.evolutionmeetings.org) as a presenter. 
 
