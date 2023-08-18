@@ -51,7 +51,7 @@ I have also applied for a ZTC grant to make BIOL 101 a zero textbook cost course
 
 I am currently serving on Academic Sentate at a voting member, the STEM Division Scholarship Committee, and on an adjunct professor Evaluation Committee. 7 Points. 
 
-I also led an Expanding Your Horizons Workshop, led an sctivity during Skyline Earth Fest, was a speaker at the uSOAR conference, mentored an intern frmo the Energize Colleges Program at Skyline College, mentored a student as a part of IMMERSE in STEM at Skyline, and am a participant in the Online SLOAC Academy. 
+I also led an [Expanding Your Horizons](https://skylinecollege.edu/eyh/) Workshop, led an sctivity during [Skyline Earth Fest](https://skylineshines.skylinecollege.edu/uncategorized/skyline-college-celebrates-earth-day-with-interactive-fun-and-educational-exhibits/), was a speaker at the [uSOAR conference](https://skylinecollege.edu/usoar/panelists.php), mentored an intern frmo the [Energize Colleges Program](https://sites.google.com/my.smccd.edu/smcccdsustainability/get-involved/internships-more/energize-colleges) at Skyline College, mentored a student as a part of [IMMERSE in STEM](https://www.skylinecollege.edu/immerse/#:~:text=IMMERSE%20in%20STEM%20scholars%20will,address%20financial%20and%20academic%20barriers.) at Skyline, and am a participant in the [Online SLOAC Academy](https://skylinecollege.edu/sloac/). 
 
 ## Self Assessment
 
