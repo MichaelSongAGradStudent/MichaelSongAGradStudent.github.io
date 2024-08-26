@@ -7,10 +7,10 @@ I bring nine years of teaching experience in higher education to my role as Assi
 
 You can learn more about my teaching philosophy below and I hope you enjoy the subsequent linked materials.
 
-## Teaching Philosophy
+## Teaching Philosophy (click on links)
 [Here](https://michaelsongagradstudent.github.io/blog/2022/10/12/Teaching-Philosophy) is a statement of my teaching philosophy.
 
-## Examples of Work
+## Examples of Work (click on links)
 My course **syllabus** for [BIOL 215](https://drive.google.com/file/d/1ygOtrPWUWbjW4ADPwr--O9_1qZBOG4yl/view?usp=share_link).
 
 An example [**quiz**](https://docs.google.com/document/d/17ZmRxWAb_cKlTx-JnSZnlXm9Va3vEMhlCBK12pAomiY/edit) and an example [**exam**](https://docs.google.com/document/d/1lC5AeCmI0t33ETkdXTxg9vuZ2owGJzqewRwQGsHMZKM/edit?usp=sharing) for BIOL 215, a course for majors.
