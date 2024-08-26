@@ -55,7 +55,9 @@ I mentored a student as a part of [**IMMERSE in STEM**](https://www.skylinecolle
 
 I have supervised **8 honors students** since arriving at Skyline College and written **20 letters of recommendation** landing students in REUs and summer internships at institutions as prestigous as UCSF. 
 
-This year, two honors projects students (Kea and Meagan) published a peer-reviewed journal manuscript with me in the _American Fern Journal_(in press), the premier academic journal on pteridology. 
+This year, two honors projects students (Kea and Meagan) published a peer-reviewed journal manuscript with me in the _American Fern Journal_ (in press), the premier academic journal on pteridology. 
+
+Represented Skyline College as an invited guest speaker at San Francisco State University and at the North American Rock Garden Association Summer Conference at the UC Botanical Garden. 
 
 ## Self Assessment
 
