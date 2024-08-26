@@ -40,22 +40,23 @@ I also am committed to the Skyline College Education Master Plan (especially num
 
 ## Professional Development activities:
 
-This summer I attended the 3-day [SEPAL](https://www.sfsusepal.org/courses/) Scientific Teaching Institute Professional Development workshop: Strengthening Student Motivation and Resilience through Research.  
+This summer I attended the 3-day [Summer of Nanopore]([https://www.sfsusepal.org/courses/](https://dnalc.cshl.edu/email/2024-summer-nanopore-sequencing/)) Professional Development workshop hosted at Skyline College by the Cold Spring Harbor DNA Learning Center. My goal is to bring this cutting edge technology into the classroom by 2026.  
 
-I also attended the [National Conference on Race and Ethnicity in Higher Education](https://ncore.ou.edu) as well as the [Evolution 2023 Conference](https://www.evolutionmeetings.org) as a presenter. 
+I am one of the faculty leads of a Skyline **President's Innovation Fund** award of $7500: Earth Day Every Day with Qimmah, Marisa, Mays, and Rachel.
 
-Here is a [draft](https://docs.google.com/document/d/1DodukYvfaKcHjUbPJZeKjHNv1q7WUVvFWmyNG3X7PmY/edit#heading=h.aixftmplc9i) of an NSF BRC BIO Grant Proposal that I will be reapplying for in Spring 2024.
+I was awarded a California Community Colleges Chancellor’s Office **Zero-Textbook-Cost award** of $5000 to write a new lab manual for BIOL 215, which I completed this summer. 
 
-A [pre-print](https://www.biorxiv.org/content/10.1101/2023.05.17.541228v1) of a peer reviewed manuscript recently accepted pending minor revisions in Evolution Letters, Impact Factor = 5.0.
-
-I have also applied for a ZTC grant to make BIOL 101 a zero textbook cost course.
 
 ## Professional Service:
 
-I am currently serving on Academic Senate at a voting member, the STEM Division Scholarship Committee, and on an adjunct professor Evaluation Committee. 7 Points. 
+I am currently serving on **Academic Senate** as a STEM representative, as chair of the the **STEM Division Scholarship Committee**, and as **co-advisor** of the Skyline environmental club (SAGE).
 
-I also led an [Expanding Your Horizons](https://skylinecollege.edu/eyh/) Workshop, led an activity during [Skyline Earth Fest](https://skylineshines.skylinecollege.edu/uncategorized/skyline-college-celebrates-earth-day-with-interactive-fun-and-educational-exhibits/), was a speaker at the [uSOAR conference](https://skylinecollege.edu/usoar/panelists.php), mentored an intern from the [Energize Colleges Program](https://sites.google.com/my.smccd.edu/smcccdsustainability/get-involved/internships-more/energize-colleges) at Skyline College, mentored a student as a part of [IMMERSE in STEM](https://www.skylinecollege.edu/immerse/#:~:text=IMMERSE%20in%20STEM%20scholars%20will,address%20financial%20and%20academic%20barriers.) at Skyline, and am a participant in the [Online SLOAC Academy](https://skylinecollege.edu/sloac/). 
+I mentored a student as a part of [**IMMERSE in STEM**](https://www.skylinecollege.edu/immerse/#:~:text=IMMERSE%20in%20STEM%20scholars%20will,address%20financial%20and%20academic%20barriers.).
+
+I have supervised **8 honors students** since arriving at Skyline College and written **20 letters of recommendation** landing students in REUs and summer internships at institutions as prestigous as UCSF. 
+
+This year, two honors projects students (Kea and Meagan) published a peer-reviewed journal manuscript with me in the _American Fern Journal_(in press), the premier academic journal on pteridology. 
 
 ## Self Assessment
 
-Here is a [link](https://drive.google.com/file/d/13DoU3WiN_HdtaJEFfifo_HEBtV-OmF8o/view?usp=share_link) to my completed mandatory self assessment form.
+Here is a [link]() to my completed mandatory self assessment form.
