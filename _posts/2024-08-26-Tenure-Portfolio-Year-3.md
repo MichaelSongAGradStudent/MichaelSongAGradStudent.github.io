@@ -15,27 +15,28 @@ My course **syllabus** for [BIOL 215](https://drive.google.com/file/d/1ygOtrPWUW
 
 An example [**quiz**](https://docs.google.com/document/d/17ZmRxWAb_cKlTx-JnSZnlXm9Va3vEMhlCBK12pAomiY/edit) and an example [**exam**](https://docs.google.com/document/d/1lC5AeCmI0t33ETkdXTxg9vuZ2owGJzqewRwQGsHMZKM/edit?usp=sharing) for BIOL 215, a course for majors.
 
-An example [**discussion prompts**](https://docs.google.com/document/d/13_huUnvvpwsLPTrLrJftVhgqu3tMY7coWDtT8DXxWws/edit).
-
 Here is an [example](https://docs.google.com/document/d/1ywlnEgnYV2Vggj7n-1m5OEO_ZWs6wu-vrDRBSv6F2iU/edit) of a **key information handout** for the plant unit of 215.
 
 Here is an [example](https://docs.google.com/document/d/1QoWNUp9wRhnoJojbyO5xOWYRZJmgGQ4j_pJcl1heT4A/edit?usp=share_link) of a **key project** using iNaturalist to teach taxonomy.
 
 Here is an [example](https://drive.google.com/file/d/1QLZlE3EsxK2jbkM2j-vxt9KMZcyQVTzO/view?usp=share_link) of a **worksheet** on evolution.
+Examples of some [**discussion prompts**](https://docs.google.com/document/d/13_huUnvvpwsLPTrLrJftVhgqu3tMY7coWDtT8DXxWws/edit).
 
 Here is an [example](https://docs.google.com/document/d/10UEZ4T8RxxcloNn33e4X_crX-FDMIaiPlDxDUL5IB7U/edit#heading=h.si8b46euu0k7) of a **representative assignment** teaching students how to use primary sources.
+
+Finally, I re-wrote the [lab manual for Biol 215](https://drive.google.com/file/d/17NYHa7MvVQS5i2gXrjhKe61Pgp_4NW0e/view?usp=sharing) as a ZTC OER!
 
 ## Rationale for inclusion in the portfolio
 
 The work above is representative of my teaching philosophy.
 
-In my non-majors class, I use discussion questions on canvas and in person group discussion as a way to increase engagement and to assess student learning in alternative ways to only high stakes midterms.
+My examples demonstrate how I have moved away from assessing rote memorization towards encouraging a synthesis of the material by having short answer questions in my quizzes and midterms.
 
-In my majors course, my examples demonstrate how I have moved away from assessing rote memorization towards encouraging a synthesis of the material by having short answer questions in my quizzes and midterms.
+I stress discussion, synthesis, and clear articulation of ideas via group work and writing instead of test taking skills and memorization. This practice promotes equity in the classroom since it does not reward more priviledged students.
 
-In both classes, I stress discussion, synthesis, and clear articulation of ideas via group work and writing instead of test taking skills and memorization. This practice promotes equity in the classroom since it does not reward more priviledged students.
+The précis assignment and iNaturalist project assignment demonstrate my commitment to encouraging student creativity and curiousity in a structured and rigorous way that is at the same time student-led.
 
-Finally, the précis assignment and iNaturalist project assignment demonstrate my commitment to encouraging student creativity and curiousity in a structured and rigorous way that is at the same time student-led.
+I also am committed to the Skyline College Education Master Plan (especially number 3: "Ensure that all students have the support and resources needed to achieve their educational goals") and have thus made all of my courses ZTC with OERs, including the lab manual that I have written.  
 
 ## Professional Development activities:
 
