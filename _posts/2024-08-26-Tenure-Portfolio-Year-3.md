@@ -13,9 +13,9 @@ You can learn more about my teaching philosophy below and I hope you enjoy the s
 ## Examples of Work
 My course **syllabus** for [BIOL 215](https://drive.google.com/file/d/1ygOtrPWUWbjW4ADPwr--O9_1qZBOG4yl/view?usp=share_link).
 
-An example [**quiz**](https://docs.google.com/document/d/17ZmRxWAb_cKlTx-JnSZnlXm9Va3vEMhlCBK12pAomiY/edit) and an example [**exam**](https://docs.google.com/document/d/1Kgr6yFXhPN4HKoAC-BrBA6C3vdeioDbH52y2jGq2dis/edit) for BIOL 215, a course for majors.
+An example [**quiz**](https://docs.google.com/document/d/17ZmRxWAb_cKlTx-JnSZnlXm9Va3vEMhlCBK12pAomiY/edit) and an example [**exam**](https://docs.google.com/document/d/1lC5AeCmI0t33ETkdXTxg9vuZ2owGJzqewRwQGsHMZKM/edit?usp=sharing) for BIOL 215, a course for majors.
 
-Some example [**discussion prompts**](https://docs.google.com/document/d/13_huUnvvpwsLPTrLrJftVhgqu3tMY7coWDtT8DXxWws/edit) and an example [**exam**](https://docs.google.com/document/d/1rzrvieLdcZ9e9HTo_RehJuruA_DGyQ9vqoqT8haruzM/edit) for BIOL 101, a course for non-majors.
+An example [**discussion prompts**](https://docs.google.com/document/d/13_huUnvvpwsLPTrLrJftVhgqu3tMY7coWDtT8DXxWws/edit).
 
 Here is an [example](https://docs.google.com/document/d/1ywlnEgnYV2Vggj7n-1m5OEO_ZWs6wu-vrDRBSv6F2iU/edit) of a **key information handout** for the plant unit of 215.
 
