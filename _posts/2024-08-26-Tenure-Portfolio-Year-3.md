@@ -40,7 +40,7 @@ I also am committed to the Skyline College Education Master Plan (especially num
 
 ## Professional Development activities:
 
-This summer I attended the 3-day [Summer of Nanopore]([https://www.sfsusepal.org/courses/](https://dnalc.cshl.edu/email/2024-summer-nanopore-sequencing/)) Professional Development workshop hosted at Skyline College by the Cold Spring Harbor DNA Learning Center. My goal is to bring this cutting edge technology into the classroom by 2026.  
+This summer I attended the 3-day [Summer of Nanopore](https://dnalc.cshl.edu/email/2024-summer-nanopore-sequencing/) Professional Development workshop hosted at Skyline College by the Cold Spring Harbor DNA Learning Center. My goal is to bring this cutting edge technology into the classroom by 2026.  
 
 I am one of the faculty leads of a Skyline **President's Innovation Fund** award of $7500: Earth Day Every Day with Qimmah, Marisa, Mays, and Rachel.
 
