@@ -51,6 +51,8 @@ I was awarded a California Community Colleges Chancellor’s Office **Zero-Textb
 
 I am currently serving on **Academic Senate** as a STEM representative, as chair of the the **STEM Division Scholarship Committee**, and as **co-advisor** of the Skyline environmental club (SAGE).
 
+I am also serving on on the **Skyline Presidential Search Committee**.
+
 I mentored a student as a part of [**IMMERSE in STEM**](https://www.skylinecollege.edu/immerse/#:~:text=IMMERSE%20in%20STEM%20scholars%20will,address%20financial%20and%20academic%20barriers.).
 
 I have supervised **8 honors students** since arriving at Skyline College and written **20 letters of recommendation** landing students in REUs and summer internships at institutions as prestigous as UCSF. 
@@ -61,4 +63,4 @@ Represented Skyline College as an invited guest speaker at San Francisco State U
 
 ## Self Assessment
 
-Here is a [link](https://drive.google.com/file/d/1aDHWr1sA2_EsqiBY8Nj4jsP6eFm7pPxn/view?usp=sharing) to my completed mandatory self assessment form.
+Here is a [link](https://drive.google.com/file/d/1lFSpY_xXGHbPMMUMjufNgP8fZ3I8a_Sv/view?usp=share_link) to my completed mandatory self assessment form.
