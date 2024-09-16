@@ -5,6 +5,7 @@ date: 2022-10-12
 ---
 
 ## Statement of Teaching Philosophy
+Updated Sep 16, 2024
 
 Michael Song
 
@@ -17,4 +18,4 @@ I learned that both Reed and Berkeley have something to offer to the self-motiva
 Throughout my career, I’ve been committed to innovating courses to make them more student centered. During the covid-19 pandemic, I remade and taught a plant systematics course where the students would get off Zoom and instead use the nature in their backyard as their laboratory by using a guided synchronous-asynchronous approach. Students were able to achieve the learning objective of identifying over 100 plant families through hands-on learning experiences and group projects with high student satisfaction. In the group projects, students needed to synthesize the taxonomic names in a critical evolutionary framework by making mini-nature documentaries or other creative projects, which they did successfully. During my first year at Skyline, I introduced group discussion and free-writing assignments into the non-majors biology class in order to build community and practice the skills of synthesis rather than memorization. In the for-majors biology class, I am in the process of developing student-led final group projects where they will have to actively apply their knowledge in developing their own experiments.
 Many of my students have gone on to work in resource management, the tech industry, health professions, or graduate school, so the most important aspect of teaching for me is to develop abstract critical thinking through tangible skill development in order to meet the needs of all my students. When we can develop both skills, we are giving students the tools to explore what they want from an education and from life.
 
-October 2022
+October 2022, revised 2024
