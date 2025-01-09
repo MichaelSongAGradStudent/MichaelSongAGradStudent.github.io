@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 ## New Job
-I am currently Assistant Professor of Biology at Skyline College! I'll be teaching BIOL 215 (Organismal Biology) in the Fall. 
+I am currently Assistant Professor of Biology at Skyline College! I'll be teaching BIOL 215 (Organismal Biology) in the Spring. 
 
 ## Research Interests
 I study the ecology and evolution of plants. At UC Berkeley, I completed my PhD as a member of the [Rothfels Lab](https://rothfelslab.org) (now at Utah State) in Integrative Biology. For much of my work, I have been interested in the role of polyploidy in plant evolution and in the dynamics of mobile elements. For my dissertation, I used synthetic neo-autotetraploid lines of Arabidopsis to elucidate the effects of polyploidy on the community of commensal microorganisms (the microbiome) that are associated with plants, and then determined whether these effects impact the plants’ responses to pathogens. It does! Find it now out in [Current Biology](https://www.sciencedirect.com/science/article/abs/pii/S0960982222007746)!
