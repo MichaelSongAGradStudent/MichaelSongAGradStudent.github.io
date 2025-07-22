@@ -7,6 +7,8 @@ I bring ten years of teaching experience in higher education to my role as Assis
 
 You can learn more about my teaching philosophy below and I hope you enjoy the subsequent linked materials.
 
+## Highlight of fourth year additions to the portfolio
+
 ## Teaching Philosophy (click on links)
 [Here](https://michaelsongagradstudent.github.io/blog/2022/10/12/Teaching-Philosophy) is a statement of my teaching philosophy, updated 2025.
 
@@ -40,11 +42,13 @@ I also am committed to the Skyline College Education Master Plan (especially num
 
 ## Professional Development activities:
 
-This summer I attended the 3-day [Summer of Nanopore](https://dnalc.cshl.edu/email/2024-summer-nanopore-sequencing/) Professional Development workshop hosted at Skyline College by the Cold Spring Harbor DNA Learning Center. My goal is to bring this cutting edge technology into the classroom by 2026.  
+I attended the 3-day long SEPAL Evidence-Based Teaching Institute at SF State 
+
+I attended the 3-day [Summer of Nanopore](https://dnalc.cshl.edu/email/2024-summer-nanopore-sequencing/) Professional Development workshop hosted at Skyline College by the Cold Spring Harbor DNA Learning Center. My goal is to bring this cutting edge technology into the classroom by 2026.  
 
 I am one of the faculty leads of a Skyline **President's Innovation Fund** award of $7500: Earth Day Every Day with Qimmah, Marisa, Mays, and Rachel.
 
-I was awarded a California Community Colleges Chancellor’s Office **Zero-Textbook-Cost award** of $5000 to write a new lab manual for BIOL 215, which I completed this summer. 
+I was awarded a California Community Colleges Chancellor’s Office **Zero-Textbook-Cost award** of $5000 to write a new lab manual for BIOL 215.
 
 
 ## Professional Service:
@@ -55,7 +59,7 @@ I am also serving on on the **Skyline Presidential Search Committee**.
 
 I mentored a student as a part of [**IMMERSE in STEM**](https://www.skylinecollege.edu/immerse/#:~:text=IMMERSE%20in%20STEM%20scholars%20will,address%20financial%20and%20academic%20barriers.).
 
-I have supervised **8 honors students** since arriving at Skyline College and written **20 letters of recommendation** landing students in REUs and summer internships at institutions as prestigous as UCSF. 
+I have supervised **12 honors students** since arriving at Skyline College and written **25 letters of recommendation** landing students in REUs and summer internships at institutions as prestigous as UCSF. 
 
 This year, two honors projects students (Kea and Meagan) published a peer-reviewed journal manuscript with me in the _American Fern Journal_ (in press), the premier academic journal on pteridology. 
 
