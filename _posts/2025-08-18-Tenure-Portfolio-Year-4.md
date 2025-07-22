@@ -53,9 +53,11 @@ I was awarded a California Community Colleges Chancellor’s Office **Zero-Textb
 
 ## Professional Service:
 
-I am currently serving on **Academic Senate** as a STEM representative, as chair of the the **STEM Division Scholarship Committee**, and as **co-advisor** of the Skyline environmental club (SAGE).
+I am currently serving as chair of the the **STEM Division Scholarship Committee** and on the technology committee. 
 
-I am also serving on on the **Skyline Presidential Search Committee**.
+I have served on **Academic Senate** as a STEM representative and as **co-advisor** of the Skyline environmental club (SAGE).
+
+I have also served on the **Skyline Presidential Search Committee**.
 
 I mentored a student as a part of [**IMMERSE in STEM**](https://www.skylinecollege.edu/immerse/#:~:text=IMMERSE%20in%20STEM%20scholars%20will,address%20financial%20and%20academic%20barriers.).
 
