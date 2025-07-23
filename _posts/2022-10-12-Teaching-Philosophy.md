@@ -5,7 +5,7 @@ date: 2022-10-12
 ---
 
 ## Statement of Teaching Philosophy
-Updated Sep 16, 2024
+Updated Jul 24, 2025
 
 Michael Song
 
@@ -16,6 +16,8 @@ At Reed College, I learned that a “student-focused” school can be student-fo
 I learned that both Reed and Berkeley have something to offer to the self-motivated and unburdened student. But that student would thrive no matter where they went. What both schools lack in different ways is an emphasis on a student-focused AND equitable learning environment—and that is where I want to intervene as an instructor. My teaching philosophy is that students should be encouraged to participate in the process of learning in order to meet their own goals—but in a structured environment. To this end, I believe that students should know what the learning objectives of the course are and should be given many small assessments and opportunities for feedback to make sure that everyone is on the same page and understanding the material—not to have extremely high stakes “assessments” and “weed-out” classes, which often reproduce class- and race-based inequality rather than test knowledge or capacity. I hold regular office hours and study sessions where we talk about everything from transferring to four-year college to dealing with the stress of home life during a global pandemic. These small-group conversations help build community and provide a space for mentorship.
 
 Throughout my career, I’ve been committed to innovating courses to make them more student centered. During the covid-19 pandemic, I remade and taught a plant systematics course where the students would get off Zoom and instead use the nature in their backyard as their laboratory by using a guided synchronous-asynchronous approach. Students were able to achieve the learning objective of identifying over 100 plant families through hands-on learning experiences and group projects with high student satisfaction. In the group projects, students needed to synthesize the taxonomic names in a critical evolutionary framework by making mini-nature documentaries or other creative projects, which they did successfully. During my first year at Skyline, I introduced group discussion and free-writing assignments into the non-majors biology class in order to build community and practice the skills of synthesis rather than memorization. In the for-majors biology class, I am in the process of developing student-led final group projects where they will have to actively apply their knowledge in developing their own experiments.
+As AI is taking over higher education, being intentional about communicating the goals of education and articulating the importance of the skills learned in the classroom is becoming all the more important and is something I have been prioritizing in recent years. 
+To this end, we discuss the pros and cons of AI in my for-majors class and usually come to the consensus that we want to learn at least some skills without AI. This buy-in is critical for students to learn anything! 
 Many of my students have gone on to work in resource management, the tech industry, health professions, or graduate school, so the most important aspect of teaching for me is to develop abstract critical thinking through tangible skill development in order to meet the needs of all my students. When we can develop both skills, we are giving students the tools to explore what they want from an education and from life.
 
-October 2022, revised 2024
+October 2022, revised 2024, 2025
