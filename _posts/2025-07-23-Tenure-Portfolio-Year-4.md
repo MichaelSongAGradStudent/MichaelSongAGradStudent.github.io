@@ -31,7 +31,7 @@ Examples of some [**discussion prompts**](https://docs.google.com/document/d/13_
 
 Here is an [example](https://docs.google.com/document/d/10UEZ4T8RxxcloNn33e4X_crX-FDMIaiPlDxDUL5IB7U/edit#heading=h.si8b46euu0k7) of a **representative assignment** teaching students how to use primary sources.
 
-Here is an [example]() of instructor feedback to one of my assignments. 
+Here is an [example]() of **instructor feedback** to one of my assignments. 
 
 Finally, I re-wrote the [lab manual for Biol 215](https://drive.google.com/file/d/17NYHa7MvVQS5i2gXrjhKe61Pgp_4NW0e/view?usp=sharing) as a ZTC OER!
 
