@@ -8,7 +8,9 @@ I bring ten years of teaching experience in higher education to my role as Assis
 You can learn more about my teaching philosophy below and I hope you enjoy the subsequent linked materials.
 
 ## Highlight of fourth year additions to the portfolio
-I published a peer-reviewed article in _The American Biology Teacher_ about my innovative teaching approaches to introductory biology at Skyline. It is currently, in press. 
+I published a peer-reviewed article in _The American Biology Teacher_ about my **innovative teaching approaches to introductory biology at Skyline**. It is currently in press.
+
+This year alone, I have published **four additional peer-reviewed articles**, in three of which I am first author, in internationally recognized journals like _The Journal of Heredity_, _The American Journal of Botany_, and _Madroño_. See CV. The research done at Skyline has led to the development of **new lab exericises** and **three honors projects**. Additionally, the collaborations developed by this research has led to **Skyline students obtaining lab experience** at institutions like The California Academy of Sciences and SF State. 
 
 ## Teaching Philosophy (click on links)
 [Here](https://michaelsongagradstudent.github.io/blog/2022/10/12/Teaching-Philosophy) is a statement of my teaching philosophy, updated 2025.
