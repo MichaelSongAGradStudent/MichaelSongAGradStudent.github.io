@@ -18,7 +18,7 @@ I have also added an **example of instructor feedback** to the portfolio as reco
 [Here](https://michaelsongagradstudent.github.io/blog/2022/10/12/Teaching-Philosophy) is a statement of my teaching philosophy, updated 2025 to address my perspective on AI.
 
 ## Examples of Work (click on links)
-My course **syllabus** for [BIOL 215](https://drive.google.com/file/d/1ygOtrPWUWbjW4ADPwr--O9_1qZBOG4yl/view?usp=share_link).
+My course **syllabus** for [BIOL 215]([https://drive.google.com/file/d/1ygOtrPWUWbjW4ADPwr--O9_1qZBOG4yl/view?usp=share_link](https://drive.google.com/file/d/10yTaEkavkgBJ79hh4e5lvdJF9pSYorvL/view?usp=share_link)).
 
 An example [**quiz**](https://docs.google.com/document/d/17ZmRxWAb_cKlTx-JnSZnlXm9Va3vEMhlCBK12pAomiY/edit) and an example [**exam**](https://docs.google.com/document/d/1lC5AeCmI0t33ETkdXTxg9vuZ2owGJzqewRwQGsHMZKM/edit?usp=sharing) for BIOL 215, a course for majors.
 
