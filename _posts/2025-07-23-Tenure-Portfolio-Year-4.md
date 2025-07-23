@@ -31,7 +31,7 @@ Examples of some [**discussion prompts**](https://docs.google.com/document/d/13_
 
 Here is an [example](https://docs.google.com/document/d/10UEZ4T8RxxcloNn33e4X_crX-FDMIaiPlDxDUL5IB7U/edit#heading=h.si8b46euu0k7) of a **representative assignment** teaching students how to use primary sources.
 
-Here is an [example]() of **instructor feedback** to one of my assignments. 
+Here is an [example](https://docs.google.com/document/d/1ISmoC403ucK_3CUu9NNwZGIDH1cnNnXr543tawZyJUk/edit?usp=sharing) of **instructor feedback** to one of my assignments. 
 
 Finally, I re-wrote the [lab manual for Biol 215](https://drive.google.com/file/d/17NYHa7MvVQS5i2gXrjhKe61Pgp_4NW0e/view?usp=sharing) as a ZTC OER!
 
@@ -44,6 +44,8 @@ My examples demonstrate how I have moved away from assessing rote memorization t
 I stress discussion, synthesis, and clear articulation of ideas via group work and writing instead of test taking skills and memorization. This practice promotes equity in the classroom since it does not reward more priviledged students.
 
 The précis assignment and iNaturalist project assignment demonstrate my commitment to encouraging student creativity and curiousity in a structured and rigorous way that is at the same time student-led.
+
+The example of instructor feedback demonstrates how I give individualized feedback to students, use a rubic for my assignments, and allow for students to improve and learn from their mistakes.
 
 I also am committed to the Skyline College Education Master Plan (especially number 3: "Ensure that all students have the support and resources needed to achieve their educational goals") and have thus made all of my courses ZTC with OERs, including the lab manual that I have written.  
 
