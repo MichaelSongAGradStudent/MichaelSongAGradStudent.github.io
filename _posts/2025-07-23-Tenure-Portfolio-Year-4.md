@@ -12,6 +12,8 @@ I published a peer-reviewed article in _The American Biology Teacher_ about my *
 
 This year alone, I have published **four additional peer-reviewed articles**, in three of which I am first author, in internationally recognized journals like _The Journal of Heredity_, _The American Journal of Botany_, and _Madroño_. See CV. The research done at Skyline has led to the development of **new lab exericises** and **three honors projects**. Additionally, the collaborations developed by this research has led to **Skyline students obtaining lab experience** at institutions like The California Academy of Sciences and SF State. 
 
+I have also added an **example of instructor feedback** to the portfolio as recommended in the last portfolio review. 
+
 ## Teaching Philosophy (click on links)
 [Here](https://michaelsongagradstudent.github.io/blog/2022/10/12/Teaching-Philosophy) is a statement of my teaching philosophy, updated 2025 to address my perspective on AI.
 
@@ -28,6 +30,8 @@ Here is an [example](https://drive.google.com/file/d/1QLZlE3EsxK2jbkM2j-vxt9KMZc
 Examples of some [**discussion prompts**](https://docs.google.com/document/d/13_huUnvvpwsLPTrLrJftVhgqu3tMY7coWDtT8DXxWws/edit).
 
 Here is an [example](https://docs.google.com/document/d/10UEZ4T8RxxcloNn33e4X_crX-FDMIaiPlDxDUL5IB7U/edit#heading=h.si8b46euu0k7) of a **representative assignment** teaching students how to use primary sources.
+
+Here is an [example]() of instructor feedback to one of my assignments. 
 
 Finally, I re-wrote the [lab manual for Biol 215](https://drive.google.com/file/d/17NYHa7MvVQS5i2gXrjhKe61Pgp_4NW0e/view?usp=sharing) as a ZTC OER!
 
