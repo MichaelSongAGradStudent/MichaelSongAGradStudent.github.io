@@ -73,5 +73,5 @@ I represented Skyline College as an **invited guest speaker** at San Francisco S
 
 ## Self Assessment
 
-Here is a [link]() to my completed mandatory self assessment form.
+Here is a [link](https://drive.google.com/file/d/1a325GVeK_Rz2ebE8icsqm3Rh3TmXqdT-/view?usp=share_link) to my completed mandatory self assessment form.
 
