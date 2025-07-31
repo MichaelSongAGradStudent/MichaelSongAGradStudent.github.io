@@ -24,7 +24,7 @@ An example [**quiz**](https://docs.google.com/document/d/17ZmRxWAb_cKlTx-JnSZnlX
 
 Here is an [example](https://docs.google.com/document/d/1ywlnEgnYV2Vggj7n-1m5OEO_ZWs6wu-vrDRBSv6F2iU/edit) of a **key information handout** for the plant unit of 215.
 
-Here is an [example](https://docs.google.com/document/d/1QoWNUp9wRhnoJojbyO5xOWYRZJmgGQ4j_pJcl1heT4A/edit?usp=share_link) of a **key project** using iNaturalist to teach taxonomy.
+Here is an [example](https://docs.google.com/document/d/1QoWNUp9wRhnoJojbyO5xOWYRZJmgGQ4j_pJcl1heT4A/edit?usp=share_link) of a **key project** using iNaturalist to teach taxonomy. This project contributes to **citizen science** and our class data has been used to document a newly introduced, invasive insect species to California: _Pyrrhocoris apterus_. 
 
 Here is an [example](https://drive.google.com/file/d/1QLZlE3EsxK2jbkM2j-vxt9KMZcyQVTzO/view?usp=share_link) of a **worksheet** on evolution.
 Examples of some [**discussion prompts**](https://docs.google.com/document/d/13_huUnvvpwsLPTrLrJftVhgqu3tMY7coWDtT8DXxWws/edit).
