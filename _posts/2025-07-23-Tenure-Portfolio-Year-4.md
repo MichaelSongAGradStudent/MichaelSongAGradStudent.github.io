@@ -53,11 +53,13 @@ I also am committed to the Skyline College Education Master Plan (especially num
 
 I attended the 3-day long SEPAL Evidence-Based Teaching Institute at SF State.
 
-I attended the 3-day [Summer of Nanopore](https://dnalc.cshl.edu/email/2024-summer-nanopore-sequencing/) Professional Development workshop hosted at Skyline College by the Cold Spring Harbor DNA Learning Center. My goal is to bring this cutting edge technology into the classroom by 2026.  
+I attended the 3-day [Summer of Nanopore](https://dnalc.cshl.edu/email/2024-summer-nanopore-sequencing/) Professional Development workshop hosted at Skyline College by the Cold Spring Harbor DNA Learning Center. My goal is to bring this cutting edge technology into the classroom by the end of 2025.  
 
-I am one of the faculty leads of a Skyline **President's Innovation Fund** award of $7500: Earth Day Every Day with Qimmah, Marisa, Mays, and Rachel.
+I was one of the faculty leads of a Skyline **President's Innovation Fund** award of $7500: Earth Day Every Day with Qimmah, Marisa, Mays, and Rachel.
 
 I was awarded a California Community Colleges Chancellor’s Office **Zero-Textbook-Cost award** of $5000 to write a new lab manual for BIOL 215.
+
+I recieved the **SLOAC Academy certificate** from Skyline where I was trained in: Crafting Student Learning Outcomes, Designing Assessment Plans to Strengthen Student Learning, and Analyzing and Acting on Assessment Results.
 
 ## Professional Service:
 
@@ -79,5 +81,5 @@ I represented Skyline College as an **invited guest speaker** at San Francisco S
 
 ## Self Assessment
 
-Here is a [link](https://drive.google.com/file/d/1a325GVeK_Rz2ebE8icsqm3Rh3TmXqdT-/view?usp=share_link) to my completed mandatory self assessment form.
+Here is a [link](https://drive.google.com/file/d/1pxNvHavEzI-aTFrdfjzC8S922ZhUlo_N/view?usp=sharing) to my completed mandatory self assessment form.
 
