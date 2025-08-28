@@ -8,6 +8,7 @@ I bring ten years of teaching experience in higher education to my role as Assis
 You can learn more about my teaching philosophy below and I hope you enjoy the subsequent linked materials.
 
 <img src="/images/Skylineteaching.jpeg" alt="Mick at Skyline" style="width:700px">
+
 Here is a photo of myself making use of Skyline's outdoor teaching materials: the native plant garden near Building 12. 
 
 ## Highlight of fourth year additions to the portfolio
