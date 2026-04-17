@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iNaturalist Flashcards</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f5f5;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .card {
+      background: white;
+      border-radius: 16px;
+      padding: 16px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+
+    img {
+      width: 100%;
+      border-radius: 12px;
+    }
+
+    button {
+      padding: 10px;
+      margin: 5px 0;
+      width: 100%;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      background: white;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #eee;
+    }
+
+    .topbar {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+
+  <div class="topbar">
+    <button onclick="setMode('all')">All</button>
+    <button onclick="setMode('birds')">Birds</button>
+    <button onclick="setMode('plants')">Plants</button>
+  </div>
+
+  <div id="score"></div>
+
+  <div class="card">
+    <img id="image" />
+    <div id="options"></div>
+    <div id="answer"></div>
+  </div>
+
+  <br>
+  <button onclick="next()">Next Observation</button>
+
+</div>
+
+<script>
+let mode = "all";
+let observation = null;
+let options = [];
+let revealed = false;
+
+let score = { correct: 0, total: 0 };
+let streak = 0;
+let best = 0;
+
+function setMode(m) {
+  mode = m;
+  next();
+}
+
+function randId() {
+  return Math.floor(Math.random() * (306146528 - 110 + 1)) + 110;
+}
+
+function matches(obs) {
+  const t = obs?.taxon?.iconic_taxon_name;
+  if (mode === "birds") return t === "Aves";
+  if (mode === "plants") return t === "Plantae";
+  return true;
+}
+
+async function fetchObs() {
+  while (true) {
+    const id = randId();
+    try {
+      const res = await fetch(`https://api.inaturalist.org/v1/observations/${id}`);
+      const data = await res.json();
+      const obs = data.results?.[0];
+
+      if (
+        obs &&
+        obs.quality_grade === "research" &&
+        obs.photos?.length > 0 &&
+        obs.taxon &&
+        matches(obs)
+      ) {
+        return obs;
+      }
+    } catch {}
+  }
+}
+
+async function next() {
+  revealed = false;
+  document.getElementById("answer").innerHTML = "";
+  document.getElementById("options").innerHTML = "Loading...";
+
+  observation = await fetchObs();
+
+  const correct = observation.taxon.name;
+  const distractors = [];
+
+  while (distractors.length < 3) {
+    const obs = await fetchObs();
+    const name = obs.taxon?.name;
+    if (name && name !== correct && !distractors.includes(name)) {
+      distractors.push(name);
+    }
+  }
+
+  options = shuffle([correct, ...distractors]);
+
+  document.getElementById("image").src =
+    observation.photos[0].url.replace("square", "large");
+
+  renderOptions();
+  updateScore();
+}
+
+function shuffle(arr) {
+  return [...arr].sort(() => Math.random() - 0.5);
+}
+
+function guess(choice) {
+  const correct = observation.taxon.name;
+  const isCorrect = choice === correct;
+
+  score.total++;
+  if (isCorrect) {
+    score.correct++;
+    streak++;
+    if (streak > best) best = streak;
+  } else {
+    streak = 0;
+  }
+
+  revealed = true;
+
+  document.getElementById("answer").innerHTML = `
+    <h3>${observation.taxon.preferred_common_name || "Unknown"}</h3>
+    <p><i>${observation.taxon.name}</i></p>
+  `;
+
+  renderOptions(true);
+  updateScore();
+}
+
+function renderOptions(disabled = false) {
+  const el = document.getElementById("options");
+  el.innerHTML = "";
+
+  options.forEach(opt => {
+    const btn = document.createElement("button");
+    btn.innerText = opt;
+    btn.disabled = disabled;
+    btn.onclick = () => guess(opt);
+    el.appendChild(btn);
+  });
+}
+
+function updateScore() {
+  document.getElementById("score").innerHTML = `
+    Score: ${score.correct}/${score.total} |
+    Streak: ${streak} |
+    Best: ${best}
+  `;
+}
+
+next();
+</script>
+
+</body>
+</html>
